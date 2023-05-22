@@ -12,7 +12,7 @@ site:
     class:  text          #i_class/text/img 
     custom: Blog      #自定义内容
   siteIcon: /img/favicon.png # 网页icon
-  icon: /img/logo.png     # 页脚的icon、加载动画默认的icon
+  icon: /img/favicon.png     # 页脚的icon、加载动画默认的icon
   icp:                       # ICP
 
 # 导航栏
@@ -26,7 +26,7 @@ nav:
           icon: /img/favicon.png
           url: https://227wiki.github.io
         22/7 WiKi Blog:
-          icon: /img/logo.png
+          icon: /img/favicon.png
           url: /
 # 导航栏内容
   menu:
@@ -67,56 +67,71 @@ hometop:
   banner:
     enable: true
     title: 开发日志<br>与成员博客
-    url: blog.zhheo.com
+    url: 227wiki.github.io
     icon:
       nagomi:
         img: /img/icon/nagomi-sig.svg
         color: '#ffffff'
       sally:
         img: /img/icon/sally-sig.svg
-        color: '#ffffff'
+        color: '#ffff29'
       moe:
         img: /img/icon/moe-sig.svg
-        color: '#57b6e6'
+        color: '#ffd1ff'
       kanae:
         img: /img/icon/kanae-sig.svg
-        color: '#4082c3'
+        color: '#7030a0'
       ruri:
         img: /img/icon/ruri-sig.svg
-        color: '#ffffff'
+        color: '#d4a99c'
       mizuha:
         img: /img/icon/mizuha-sig.svg
-        color: '#ffffff'
+        color: '#eda956'
       reina:
         img: /img/icon/reina-sig.svg
-        color: '#eb6840'
+        color: '#ff67ff'
       urara:
         img: /img/icon/urara-sig.svg
-        color: '#8f55ba'
+        color: '#800080'
       chiharu:
         img: /img/icon/chiharu-sig.svg
-        color: '#f29e39'
+        color: '#e6989c'
       uta:
         img: /img/icon/uta-sig.svg
-        color: '#2c51db'
+        color: '#4472c4'
       aina:
         img: /img/icon/aina-sig.svg
-        color: '#f7cb4f'
+        color: '#94ef94'
       mao:
         img: /img/icon/mao-sig.svg
-        color: '#df5b40'
+        color: '#72c396'
       luna:
         img: /img/icon/luna-sig.svg
-        color: '#df5b40'
+        color: '#9647ff'
       rino:
         img: /img/icon/rino-sig.svg
-        color: '#df5b40'
+        color: '#f08301'
+      satsuki:
+        img: /img/icon/satsuki-sig.svg
+        color: '#66ffcc'
+      mina:
+        img: /img/icon/mina-sig.svg
+        color: '#c1ff38'
+      nao:
+        img: /img/icon/nao-sig.svg
+        color: '#50eaff'
+      oto:
+        img: /img/icon/oto-sig.svg
+        color: '#8d3043'
+      emma:
+        img: /img/icon/emma-sig.svg
+        color: '#df212c'
 
   categoryGroup:
     G1:
-      name: Acrylic
+      name: 成员博客
       icon: fas fa-dove
-      url: /tags/Acrylic/
+      url: /categories/成员博客/
     G2:
       name: 热门文章
       icon: fas fa-burn
@@ -128,9 +143,9 @@ hometop:
 
   recommendList:
     sup: 置顶文章
-    title: 让Acrylic成为您的Hexo主题
-    url: /
-    img: /img/acrylic.png
+    title: 僕は今夜、出て行く
+    url: /2023/04/27/3879e3a97261fe5069cf38f0a9cfa505/
+    img: https://files.zzzhxxx.top/img/048658293991c3d18c3e7408de772.jpg
     color: '#006a73'
 
 # 个人卡片
@@ -155,18 +170,18 @@ aside:
       #   icon: fa-solid fa-envelope
       #   url: mailto:a@nalex.top
     button:
-      text: 个人主页
-      url: /
+      text: 访问wiki
+      url: https://227wiki.github.io
 
-  flip:
-    color: '#0099FF'
-    face:
-      title: QQ群
-      desc: 加入官方QQ群与我们交流
-    backface:
-      title: 扫一扫
-      desc: 获取最新信息和帮助
-      img: /img/qqgroup.png
+  # flip:
+  #   color: '#0099FF'
+  #   face:
+  #     title: QQ群
+  #     desc: 加入官方QQ群与我们交流
+  #   backface:
+  #     title: 扫一扫
+  #     desc: 获取最新信息和帮助
+  #     img: /img/qqgroup.png
 
   toc: 
     post: true
@@ -180,31 +195,31 @@ aside:
     uv: false
     updatetime: false
     runtimeenable: true
-    runtime: '2021-12-12 00:00:00'
+    runtime: '2023-05-02 00:00:00'
 
 # 页脚
 footer:
   information:
     left:
-      # Github:
-      #   icon: fa-brands fa-github
-      #   url: /
+      Github:
+        icon: fa-brands fa-github
+        url: https://github.com/227WiKi
       # Mail:
       #   icon: fa-solid fa-envelope
       #   url: /
     right:
-      # 网易云:
-      #   icon: fa-solid fa-music
-      #   url: /
+      网易云:
+        icon: fa-solid fa-music
+        url: /
       # bilibili:
       #   icon: fa-brands fa-bilibili
       #   url: /
 
   group:
-    # 导航:
-    #   文章归档: /archives/
-    #   文章分类: /categories/
-    #   文章标签: /tags/
+    导航:
+      文章归档: /archives/
+      文章分类: /categories/
+      文章标签: /tags/
     #   友链: /link/
     # 服务:
     #   51la统计: https://51.la/
@@ -231,8 +246,8 @@ page:
 post:
   default:
     cover: /img/hello.jpg
-    locate: 北京
-    copyright: 原创
+    locate: 日本
+    copyright: 转载
     excerpt: 100
   meta:
     date: true
@@ -249,20 +264,20 @@ post:
     url:
   covercolor: #文章cover取色  
     enable: false
-    local: false  
+    local: false 
 
 # 关于界面
 about: false
 
 # 404页面
 errorpage:
-  img: /img/acrylic.png
+  img: /img/hello.jpg
   text: =awa= 页面走丢了
   recommendList: true
 
 # 懒加载
 lazyload:
-  enable: false
+  enable: true
   placeholder: /img/acrylic.png
   errorimg: /img/acrylic.png
 
@@ -276,8 +291,8 @@ hightlight:
 
 # 加载动画
 loading:
-  fullpage: false
-  pace: false
+  fullpage: true
+  pace: true
 
 # 第三方设置
 thirdparty:
