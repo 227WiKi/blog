@@ -181,7 +181,7 @@ aside:
     backface:
       title: 扫一扫
       desc: 获取最新信息和帮助
-      img: /img/qrcode_227wiki.eu.org.png
+      img: /img/qrcode.png
 
   toc: 
     post: true
