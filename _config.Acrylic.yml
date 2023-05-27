@@ -24,7 +24,7 @@ nav:
       22/7 WiKi:
         22/7 WiKi:
           icon: /img/favicon.png
-          url: https://227wiki.github.io
+          url: https://227wiki.eu.org
         22/7 WiKi Blog:
           icon: /img/favicon.png
           url: /
@@ -57,7 +57,7 @@ nav:
 
 # 导航栏右侧快捷菜单
   right: # @todo 允许用户自定义
-    travellings: true   #开往
+    travellings: false   #开往
     random: true        #
     console: true       #控制台
 
@@ -67,7 +67,7 @@ hometop:
   banner:
     enable: true
     title: 开发日志<br>与成员博客
-    url: 227wiki.github.io
+    url: 227wiki.eu.org
     icon:
       nagomi:
         img: /img/icon/nagomi-sig.svg
@@ -129,17 +129,17 @@ hometop:
 
   categoryGroup:
     G1:
+      name: 22/7官网
+      icon: fas fa-hashtag
+      url: https://www.nanabunnonijyuuni.com/
+    G2:
       name: 成员博客
       icon: fas fa-dove
       url: /categories/成员博客/
-    G2:
-      name: 热门文章
-      icon: fas fa-burn
-      url: /tags/热门/
     G3:
-      name: 实用教程
-      icon: fas fa-book
-      url: /tags/教程/
+      name: 博客爬虫
+      icon: fas fa-spider
+      url: https://github.com/227WiKi/blog_spider
 
   recommendList:
     sup: 置顶文章
@@ -171,17 +171,17 @@ aside:
       #   url: mailto:a@nalex.top
     button:
       text: 访问wiki
-      url: https://227wiki.github.io
+      url: https://227wiki.eu.org
 
-  # flip:
-  #   color: '#0099FF'
-  #   face:
-  #     title: QQ群
-  #     desc: 加入官方QQ群与我们交流
-  #   backface:
-  #     title: 扫一扫
-  #     desc: 获取最新信息和帮助
-  #     img: /img/qqgroup.png
+  flip:
+    color: '#0099FF'
+    face:
+      title: 网站
+      desc: 访问网站获取更多信息
+    backface:
+      title: 扫一扫
+      desc: 获取最新信息和帮助
+      img: /img/qrcode_227wiki.eu.org.png
 
   toc: 
     post: true
@@ -208,9 +208,9 @@ footer:
       #   icon: fa-solid fa-envelope
       #   url: /
     right:
-      网易云:
+      22/7音乐:
         icon: fa-solid fa-music
-        url: /
+        url: https://nanabunnonijyuuni.com/s/n129/page/discography?ima=5733
       # bilibili:
       #   icon: fa-brands fa-bilibili
       #   url: /
