@@ -303,6 +303,22 @@ class acrylic {
             }
         })
     }
+    static toTalk(txt) {
+        const input = document.querySelector('.el-textarea__inner');
+        const evt = new Event('input', { bubbles: true, cancelable: true });
+        const inputValue = txt.replace(/\n/g, '\n> ');
+        input.value = '> ' + inputValue + '\n\n';
+        input.dispatchEvent(evt);
+        utils.scrollToDest(utils.getEleTop(document.getElementById('post-comment')), 300)
+        input.focus();
+        input.setSelectionRange(-1, -1);
+        const commentTips = document.querySelector("#comment-tips");
+        if (commentTips) {
+          commentTips.classList.add("show");
+        }
+    }
+
+
     static initbbtalk() {
         if (document.querySelector('#bber-talk')) {
             var swiper = new Swiper('.swiper-container', {
@@ -315,6 +331,22 @@ class acrylic {
             });
         }
     }
+    static addPhotoFigcaption() {
+        const images = document.querySelectorAll('#article-container img');
+      
+        images.forEach((image) => {
+          const imageParent = image.parentNode;
+          const captionText = image.getAttribute('alt');
+      
+          if (captionText) {
+            const captionElement = document.createElement('div');
+            captionElement.className = 'img-alt is-center';
+            captionElement.textContent = captionText;
+      
+            imageParent.insertBefore(captionElement, image.nextSibling);
+          }
+        });
+      }
     static musicToggle(){
         const $music = document.querySelector('#nav-music'),
         $meting = document.querySelector('meting-js'),
@@ -330,6 +362,9 @@ class acrylic {
             acrylic_musicPlaying = true;
             $meting.aplayer.play();
         }
+    }
+    static scrollToComment() {
+        utils.scrollToDest(utils.getEleTop(document.getElementById('post-comment')), 300)
     }
 }
 
@@ -409,8 +444,10 @@ window.refreshFn = () => {
     scrollFn()
     sidebarFn()
     setTimeState()
+    GLOBALCONFIG.comment.enable && newestCommentInit()
     chageTimeFormate()
     acrylic.addRuntime()
+    acrylic.addPhotoFigcaption()
     GLOBALCONFIG.lazyload.enable && acrylic.lazyloadImg()
     GLOBALCONFIG.lightbox && acrylic.lightbox('#article-container img, #bber .bber-content-img img, #album_detail album-content-img img')
     GLOBALCONFIG.randomlinks && randomLinksList()
@@ -432,6 +469,7 @@ window.refreshFn = () => {
 }
 
 acrylic.initTheme()
+
 let acrylic_musicPlaying = false
 document.addEventListener('DOMContentLoaded', function () {
     refreshFn()
