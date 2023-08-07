@@ -42,12 +42,12 @@ nav:
         全部标签:
           url: /tags/
           icon: fas fa-tags
-    # 友链:
-    #   url: false
-    #   child:
-    #     友链鱼塘:
-    #       url: /fcircle/
-    #       icon: fas fa-fish-fins
+    图库:
+      url: false
+      child:
+        Instagram备份:
+          url: /ins/
+          icon: fas fa-images
     #     友情链接:
     #       url: /links/
     #       icon: fas fa-user-group
