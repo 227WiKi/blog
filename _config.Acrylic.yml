@@ -291,7 +291,7 @@ hightlight:
 
 # 加载动画
 loading:
-  fullpage: true
+  fullpage: false
   pace: true
 
 # 第三方设置
