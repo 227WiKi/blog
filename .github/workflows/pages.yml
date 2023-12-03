@@ -16,7 +16,7 @@ jobs:
         #   submodules: true
         #   fetch-depth: 0
       # 每个name表示一个步骤:step
-      - name: Use Node.js 16.x
+      - name: Use Node.js 18.x
         uses: actions/setup-node@v2
         with:
           node-version: '18.16.0' # 自己正在使用的node版本即可
@@ -38,17 +38,35 @@ jobs:
       - name: Look Dir List
         run: tree -L 3 -a
       # 第一次或者依赖发生变化的时候执行 Install Dependencies，其它构建的时候不需要这一步
-      - name: Install Dependencies
-        run: npm install
-      - name: Look Dir List
-        run: tree -L 3 -a
-      # - name: clean theme cache
-      #   run: git rm -f --cached themes/tenacity
-        # run: git submodule deinit themes/tenacity && git rm themes/tenacity
-      - name: Clean
-        run: npm run clean
-      - name: Build
-        run: npm run build
+       - name: 安装 Hexo
+        run: |
+          export TZ='Asia/Shanghai'
+          npm install hexo-cli -g
+
+      - name: 缓存 Hexo
+        id: cache-npm
+        uses: actions/cache@v3
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+
+      - name: 安装依赖
+        if: ${{ steps.cache-npm.outputs.cache-hit != 'true' }}
+        run: |
+          npm install gulp-cli -g
+          npm install --save
+
+      - name: 生成静态文件
+        run: |
+          hexo clean
+          hexo generate
+          gulp
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
