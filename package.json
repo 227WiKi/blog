@@ -12,6 +12,7 @@
     "version": "7.0.0"
   },
   "dependencies": {
+    "gulp": "^4.0.2",
     "hexo": "^7.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
