@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 22/7 WiKi Blog
+title: 22/7 Blog
 subtitle: ''
-description: '22/7 WiKi的开发日志和成员的Blog'
+description: '22/7 WiKi 是一个开源的社区项目，由Mkdocs系统驱动，包含了与22/7有关的各类资源和信息'
 keywords:
 author: 22/7 WiKi
 language: zh-CN
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Acrylic
+theme: anzhiyu
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

@@ -1,0 +1,59 @@
+- class_name: 22/7成员博客
+  creativity_list:
+    - name: nagomi
+      icon: /img/icon/nagomi-sig.svg
+      color: '#ffffff'
+    - name: sally
+      icon: /img/icon/sally-sig.svg
+      color: '#ffff29'
+    - name: moe
+      icon: /img/icon/moe-sig.svg
+      color: '#ffd1ff'
+    - name: kanae
+      icon: /img/icon/kanae-sig.svg
+      color: '#7030a0'
+    - name: ruri
+      icon: /img/icon/ruri-sig.svg
+      color: '#d4a99c'
+    - name: mizuha
+      icon: /img/icon/mizuha-sig.svg
+      color: '#eda956'
+    - name: reina
+      icon: /img/icon/reina-sig.svg
+      color: '#ff67ff'
+    - name: urara
+      icon: /img/icon/urara-sig.svg
+      color: '#800080'
+    - name: chiharu
+      icon: /img/icon/chiharu-sig.svg
+      color: '#e6989c'
+    - name: uta
+      icon: /img/icon/uta-sig.svg
+      color: '#4472c4'
+    - name: aina
+      icon: /img/icon/aina-sig.svg
+      color: '#94ef94'
+    - name: mao
+      icon: /img/icon/mao-sig.svg
+      color: '#72c396'
+    - name: luna
+      icon: /img/icon/luna-sig.svg
+      color: '#9647ff'
+    - name: rino
+      icon: /img/icon/rino-sig.svg
+      color: '#f08301'
+    - name: satsuki
+      icon: /img/icon/satsuki-sig.svg
+      color: '#66ffcc'
+    - name: mina
+      icon: /img/icon/mina-sig.svg
+      color: '#c1ff38'
+    - name: nao
+      icon: /img/icon/nao-sig.svg
+      color: '#50eaff'
+    - name: oto
+      icon: /img/icon/oto-sig.svg
+      color: '#8d3043'
+    - name: emma
+      icon: /img/icon/emma-sig.svg
+      color: '#df212c'
