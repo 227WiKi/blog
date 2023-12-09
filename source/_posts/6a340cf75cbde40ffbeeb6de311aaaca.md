@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 宮瀬玲奈
 description: こんばんฅ՞•ﻌ•՞ฅﾜﾝ前はピンクラメだったネイルが..こうなりました..！✩シンプルネイル✩ベースは赤色❤️冬やけん暖かい暖色で、心も暖かくなったらいいなあ...
-cover: https://files.zzzhxxx.top/img/b66de493d8eafde4e39557ac092ad.jpg 
+cover: https://files.227wiki.eu.org/d/Backup/Blog/reina/b66de493d8eafde4e39557ac092ad.jpg 
 ---
 
         こんばんฅ՞•ﻌ•՞ฅﾜﾝ
@@ -25,7 +25,7 @@ cover: https://files.zzzhxxx.top/img/b66de493d8eafde4e39557ac092ad.jpg
 
 
 
-![](https://files.zzzhxxx.top/img/b66de493d8eafde4e39557ac092ad.jpg)
+![](https://files.227wiki.eu.org/d/Backup/Blog/reina/b66de493d8eafde4e39557ac092ad.jpg)
 
 
 

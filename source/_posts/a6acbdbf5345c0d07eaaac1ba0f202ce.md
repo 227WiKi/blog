@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 宮瀬玲奈
 description: こんばんฅ՞•ﻌ•՞ฅﾜﾝ今日も1日おつかれいにゃんでした( ´꒳`*)人(*´꒳` )2ndシングル「シャンプーの匂いがした」リリース日当日4月11日には個別ハイタッチ会を、4月12日には新宿・...
-cover: https://files.zzzhxxx.top/img/193cebcb14857348826c88ff03485.png 
+cover: https://files.227wiki.eu.org/d/Backup/Blog/reina/193cebcb14857348826c88ff03485.png 
 ---
 
 
@@ -36,7 +36,7 @@ cover: https://files.zzzhxxx.top/img/193cebcb14857348826c88ff03485.png
 12日にお店訪問させていただいた際、写真と一緒に写真をとらせていただきました。
 
 
-![](https://files.zzzhxxx.top/img/193cebcb14857348826c88ff03485.png)
+![](https://files.227wiki.eu.org/d/Backup/Blog/reina/193cebcb14857348826c88ff03485.png)
 
 
 

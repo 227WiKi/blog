@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 涼花萌
 description: ななばんは〜〜！今日のくらてん！にゲストとして呼んでもらって〜〜ん📻💓わぁ〜〜い🤗くらてん！初ゲストやねんて〜〜🤗🤗くらてんフェス♪ってゆうこと...
-cover: https://files.zzzhxxx.top/img/36e9c437eb078be18382f3bd39eb6.jpg 
+cover: https://files.227wiki.eu.org/d/Backup/Blog/moe/36e9c437eb078be18382f3bd39eb6.jpg 
 ---
 
 
@@ -23,7 +23,7 @@ cover: https://files.zzzhxxx.top/img/36e9c437eb078be18382f3bd39eb6.jpg
 
 
 今日のくらてん！にゲストとして呼んでもらって〜〜ん📻💓
-![](https://files.zzzhxxx.top/img/36e9c437eb078be18382f3bd39eb6.jpg)
+![](https://files.227wiki.eu.org/d/Backup/Blog/moe/36e9c437eb078be18382f3bd39eb6.jpg)
 
 
 
@@ -103,7 +103,7 @@ cover: https://files.zzzhxxx.top/img/36e9c437eb078be18382f3bd39eb6.jpg
 
 
 
-![](https://files.zzzhxxx.top/img/36e9c437eb078be18382f3bd39eb6-01.jpg)
+![](https://files.227wiki.eu.org/d/Backup/Blog/moe/36e9c437eb078be18382f3bd39eb6-01.jpg)
 
 
 

@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 白沢かなえ
 description: こんにちはっ5つくらい書きかけのブログ記事があり、困っています、白沢かなえです🥘プシュー寝落ちが大好きなので(？)よく寝落ちしてしまいます…ごめんなさい(´つ_⊂)プシュ...
-cover: https://files.zzzhxxx.top/img/512963610abfa5bdd792c6da812f5.png 
+cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/512963610abfa5bdd792c6da812f5.png 
 ---
 
 
@@ -149,7 +149,7 @@ cover: https://files.zzzhxxx.top/img/512963610abfa5bdd792c6da812f5.png
 ではまた後で〜🌷
 
 
-![](https://files.zzzhxxx.top/img/512963610abfa5bdd792c6da812f5.png)
+![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/512963610abfa5bdd792c6da812f5.png)
 
 
 
