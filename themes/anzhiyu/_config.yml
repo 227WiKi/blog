@@ -1,16 +1,19 @@
 menu:
-  文章:
-    归档: /archives/ || anzhiyu-icon-box-archive
-    分类: /categories/ || anzhiyu-icon-shapes
-    标签: /tags/ || anzhiyu-icon-tags
+  # 文章:
+  #   隧道: /archives/ || anzhiyu-icon-box-archive
+  #   分类: /categories/ || anzhiyu-icon-shapes
+  #   标签: /tags/ || anzhiyu-icon-tags
 
   # 友链:
   #   友人帐: /link/ || anzhiyu-icon-link
   #   朋友圈: /fcircle/ || anzhiyu-icon-artstation
   #   留言板: /comments/ || anzhiyu-icon-envelope
 
-  图库:
-    Instagram: /ins/ || anzhiyu-icon-images
+  # 我的:
+  #   音乐馆: /music/ || anzhiyu-icon-music
+  #   追番页: /bangumis/ || anzhiyu-icon-bilibili
+  #   相册集: /album/ || anzhiyu-icon-images
+  #   小空调: /air-conditioner/ || anzhiyu-icon-fan
 
   # 关于:
   #   关于本人: /about/ || anzhiyu-icon-paper-plane
@@ -19,21 +22,20 @@ menu:
 
 # nav相关配置
 nav:
-  enable: true
+  enable: false
   travelling: false
   clock: false
   menu:
     - title: 网页
       item:
-        - name: Wiki
-          link: https://227wiki.eu.org/
-          icon: /img/favicon.png
         - name: 博客
-          link: https://blog.227wiki.eu.org/
-          icon: /img/favicon.png
-        - name: 资源站
-          link: https://files.227wiki.eu.org/
-          icon: /img/favicon.png
+          link: https://blog.anheyu.com/
+          icon: /img/favicon.ico
+    - title: 项目
+      item:
+        - name: 安知鱼图床
+          link: https://image.anheyu.com/
+          icon: https://image.anheyu.com/favicon.ico
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -55,7 +57,7 @@ code_word_wrap: false
 # copyright: Add the copyright information after copied content (複制的内容后面加上版权信息)
 # copy: enable 复制后弹窗提示版权信息
 copy:
-  enable: false
+  enable: true
   copyright:
     enable: false
     limit_count: 50
@@ -64,7 +66,7 @@ copy:
 # formal:
 #   name: link || icon
 social:
-  Github: https://github.com/227WiKi || anzhiyu-icon-github
+  # Github: https://github.com/anzhiyu-c || anzhiyu-icon-github
   # BiliBili: https://space.bilibili.com/372204786 || anzhiyu-icon-bilibili
 
 # 作者卡片 状态
@@ -134,11 +136,11 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: /img/favicon.png
+favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: /img/favicon.png
+  img: https://bu.dusays.com/2023/04/27/64496e511b09c.jpg
   effect: false
 
 # Disable all banner image
@@ -159,19 +161,19 @@ cover:
   # left/right/both
   position: left
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
-  default_cover: 
-    - /img/404.png
+  default_cover:
+    # - /img/default_cover.jpg
 
 # Replace Broken Images (替换无法显示的图片)
 error_img:
   flink: /img/friend_404.gif
-  post_page: /img/404-hover.png
+  post_page: /img/404.jpg
 
 # A simple 404 page
 error_404:
   enable: true
   subtitle: "请尝试站内搜索寻找文章"
-  background: /img/404.png
+  background: https://bu.dusays.com/2023/05/08/645907596997d.gif
 
 post_meta:
   page: # Home Page
@@ -190,10 +192,10 @@ post_meta:
 
 # 主色调相关配置
 mainTone:
-  enable: true # true or false 文章是否启用获取图片主色调
+  enable: false # true or false 文章是否启用获取图片主色调
   mode: api # cdn/api/both cdn模式为图片url+imageAve参数获取主色调，api模式为请求API获取主色调，both模式会先请求cdn参数，无法获取的情况下将请求API获取，可以在文章内配置main_color: '#3e5658'，使用十六进制颜色，则不会请求both/cdn/api获取主色调，而是直接使用配置的颜色
   # 项目地址：https://github.com/anzhiyu-c/img2color-go
-  api: https://cover.227wiki.eu.org/api?img= # mode为api时可填写
+  api: https://img2color-go.vercel.app/api?img= # mode为api时可填写
   cover_change: true # 整篇文章跟随cover修改主色调
 
 # wordcount (字数统计)
@@ -229,10 +231,10 @@ toc:
   style_simple: false # for post
 
 post_copyright:
-  enable: false
+  enable: true
   decode: false
   author_href:
-  location: 日本
+  location: 长沙
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
   avatarSinks: false # hover时头像下沉
@@ -242,7 +244,7 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: false
+  enable: true
   QR_code:
     - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-weichat.png
       link:
@@ -284,7 +286,7 @@ post_pagination: 2
 
 # Displays outdated notice for a post (文章过期提醒)
 noticeOutdate:
-  enable: false 
+  enable: false
   style: flat # style: simple/flat
   limit_day: 365 # When will it be shown
   position: top # position: top/bottom
@@ -506,17 +508,17 @@ footer:
       #       link: /copyright/
   footerBar:
     enable: true
-    authorLink: https://227wiki.eu.org/
+    authorLink: /
     cc:
       enable: false
       link: /copyright
     linkList:
-      - link: https://nanabunnonijyuuni.com/
-        text: 22/7 Official Website
-      - link: https://227wiki.eu.org/
-        text: 22/7 WiKi
-      - link: https://files.227wiki.eu.org/
-        text: 22/7 Archive
+      - link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
+        text: 主题
+      # - link: https://image.anheyu.com
+      #   text: 图床
+      # - link: https://beian.miit.gov.cn/
+      #   text: 湘ICP备-xxxxxxx号
     subTitle:
       enable: false
       # Typewriter Effect (打字效果)
@@ -597,9 +599,9 @@ site_verification:
 
 theme_color:
   enable: true
-  main: "#008ed2"
-  dark_main: "#00abcc"
-  paginator: "#008ed2"
+  main: "#425AEF"
+  dark_main: "#f2b94b"
+  paginator: "#425AEF"
   #   button_hover: "#FF7242"
   text_selection: "#2128bd"
   link_color: "var(--anzhiyu-fontcolor)"
@@ -766,7 +768,7 @@ subtitle:
 
 # Loading Animation (加载动画)
 preloader:
-  enable: false
+  enable: true
   # source
   # 1. fullpage-loading
   # 2. pace (progress bar)
@@ -798,7 +800,7 @@ aside:
     enable: false
     content: 欢迎来看我的博客鸭~
   card_weixin:
-    enable: false
+    enable: true
     face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
     backFace: https://bu.dusays.com/2023/05/13/645fa415e8694.png
   card_recent_post:
@@ -958,7 +960,7 @@ note:
   light_bg_offset: 0
 
 icons:
-  ali_iconfont_js: https://nananiji.zzzhxxx.top/js/font_4356077_myld52uh7n.js
+  ali_iconfont_js: # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
   fontawesome: false #是否启用fontawesome6图标
   fontawesome_animation_css: #fontawesome_animation 如果有就会加载，示例值：https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
 
@@ -1033,35 +1035,35 @@ css_prefix: true
 home_top:
   enable: true # 开关
   timemode: date #date/updated
-  title: 22/7成员の
-  subTitle: Blog
-  siteText: 227wiki.eu.org
+  title: 生活明朗
+  subTitle: 万物可爱。
+  siteText: anheyu.com
   category:
-    - name: 22/7 WiKi
-      path: https://227wiki.eu.org
+    - name: 前端
+      path: /categories/前端开发/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
-      icon: icon-a-227wiki-logo
-    - name: 22/7 Archive
-      path: https://files.227wiki.eu.org
+      icon: anzhiyu-icon-dove
+    - name: 大学
+      path: /categories/大学生涯/
       shadow: var(--anzhiyu-shadow-red)
       class: red
-      icon: anzhiyu-icon-folder-open
-    - name: 22/7 Official
-      path: https://nanabunnonijyuuni.com
+      icon: anzhiyu-icon-fire
+    - name: 生活
+      path: /categories/生活日常/
       shadow: var(--anzhiyu-shadow-green)
       class: green
-      icon: icon-a-227-logo
+      icon: anzhiyu-icon-book
   default_descr: 再怎么看我也不知道怎么描述它的啦！
   swiper:
     enable: false
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 宫濑玲奈
-    title: 僕は今夜、出て行く
-    image: https://files.zzzhxxx.top/img/048658293991c3d18c3e7408de772.jpg
-    link: /2023/04/27/3879e3a97261fe5069cf38f0a9cfa505/
+    tips: 新品主题
+    title: Theme-AnZhiYu
+    image: https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
+    link: https://docs.anheyu.com/
 
 # 朋友圈配置
 friends_vue:
@@ -1073,7 +1075,8 @@ friends_vue:
 
 # 深色模式粒子效果canvas
 universe:
-  enable: false
+  enable: true
+
 # 页面卡片顶部气泡升起效果
 bubble:
   enable: false
@@ -1090,7 +1093,7 @@ LA:
 
 # 标签卖萌
 diytitle:
-  enable: false
+  enable: true
   leaveTitle: w(ﾟДﾟ)w 不要走！再看看嘛！
   backTitle: ♪(^∇^*)欢迎肥来！
 
@@ -1113,12 +1116,13 @@ nav_music:
   console_widescreen_music: false # 宽屏状态控制台显示音乐而不是标签 enable为true 控制台依然会显示
   id: 8152976493
   server: netease
+  volume: 0.7 # 默认音量
   all_playlist: https://y.qq.com/n/ryqq/playlist/8802438608
 
 # 评论匿名邮箱
 visitorMail:
   enable: true
-  mail: visitor@anheyu.com
+  mail: ""
 
 # ptool 文章底部工具
 ptool:
@@ -1161,7 +1165,7 @@ greetingBox:
 
 # 文章顶部ai摘要
 post_head_ai_description:
-  enable: false
+  enable: true
   gptName: AnZhiYu
   mode: local # 默认模式 可选值: tianli/local
   switchBtn: false # 可以配置是否显示切换按钮 以切换tianli/local
@@ -1202,7 +1206,7 @@ rightClickMenu:
 
 # 首页随便逛逛people模式 而非技能点模式，关闭后为技能点模式需要配置creativity.yml
 peoplecanvas:
-  enable: false
+  enable: true
   img: https://upload-bbs.miyoushe.com/upload/2023/09/03/125766904/ee23df8517f3c3e3efc4145658269c06_5714860933110284659.png
 
 # 动效
