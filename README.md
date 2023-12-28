@@ -1,6 +1,6 @@
 # About
 
-A backup site for 22/7 members' blogs. Includes Instagram backups and blod posts.
+A backup site for 22/7 members' blogs. Includes Instagram backups and blog posts.
 
 # Visit
 
