@@ -6,7 +6,7 @@ A backup site for 22/7 members' blogs. Includes Instagram backups and blog posts
 
 If you can't visit the site, please use the mirror site.
 
-[Github Pages](https://blog.227wiki.eu.org) | [Mirror(Azure Asian East)](https://227blog.zzzhxxx.top)
+[Github Pages](https://blog.227wiki.eu.org) | [Mirror(Azure Asian East)](https://mirror.blog.227wiki.eu.org)
 
 # Requirements
 
