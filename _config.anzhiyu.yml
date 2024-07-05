@@ -138,7 +138,7 @@ favicon: /img/favicon.png
 
 # Avatar (头像)
 avatar:
-  img: /img/favicon.png
+  img: /img/avatar.png
   effect: false
 
 # Disable all banner image
@@ -159,7 +159,7 @@ cover:
   # left/right/both
   position: left
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
-  default_cover: 
+  default_cover:
     - /img/404.png
 
 # Replace Broken Images (替换无法显示的图片)
@@ -284,7 +284,7 @@ post_pagination: 2
 
 # Displays outdated notice for a post (文章过期提醒)
 noticeOutdate:
-  enable: false 
+  enable: false
   style: flat # style: simple/flat
   limit_day: 365 # When will it be shown
   position: top # position: top/bottom
@@ -1058,10 +1058,10 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 宫濑玲奈
-    title: 僕は今夜、出て行く
-    image: https://files.zzzhxxx.top/img/048658293991c3d18c3e7408de772.jpg
-    link: /2023/04/27/3879e3a97261fe5069cf38f0a9cfa505/
+    tips: 凉花萌
+    title: 魔法がとけそう🧚🏻‍♀️
+    image: https://files.227wiki.eu.org/d/Backup/Blog/moe/mobneaWAw.jpg
+    link: /2024/06/17/feb608592af9aa741e005f75993d1848/
 
 # 朋友圈配置
 friends_vue:
