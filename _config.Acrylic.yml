@@ -5,19 +5,18 @@
 # 修改此文件前，请仔细阅读官方文档：https://next-docs.acrylic.org.cn/
 ############################################################################################################
 
-
 # 站点设置
 site:
-  name:                   # 左上角显示内容
-    class:  text          #i_class/text/img 
-    custom: Blog      #自定义内容
+  name: # 左上角显示内容
+    class: text #i_class/text/img
+    custom: Blog #自定义内容
   siteIcon: /img/favicon.png # 网页icon
-  icon: /img/favicon.png     # 页脚的icon、加载动画默认的icon
-  icp:                       # ICP
+  icon: /img/favicon.png # 页脚的icon、加载动画默认的icon
+  icp: # ICP
 
 # 导航栏
 nav:
-#导航栏左侧
+  #导航栏左侧
   left:
     enable: true
     menu:
@@ -28,7 +27,7 @@ nav:
         22/7 WiKi Blog:
           icon: /img/favicon.png
           url: /
-# 导航栏内容
+  # 导航栏内容
   menu:
     文库:
       url: false
@@ -55,11 +54,11 @@ nav:
     #       url: javascript:travelling()
     #       icon: fas fa-bus
 
-# 导航栏右侧快捷菜单
+  # 导航栏右侧快捷菜单
   right: # @todo 允许用户自定义
-    travellings: false   #开往
-    random: true        #
-    console: true       #控制台
+    travellings: false #开往
+    random: true #
+    console: true #控制台
 
 # heo式顶部一大坨
 hometop:
@@ -71,61 +70,61 @@ hometop:
     icon:
       nagomi:
         img: /img/icon/nagomi-sig.svg
-        color: '#ffffff'
+        color: "#ffffff"
       sally:
         img: /img/icon/sally-sig.svg
-        color: '#ffff29'
+        color: "#ffff29"
       moe:
         img: /img/icon/moe-sig.svg
-        color: '#ffd1ff'
+        color: "#ffd1ff"
       kanae:
         img: /img/icon/kanae-sig.svg
-        color: '#7030a0'
+        color: "#7030a0"
       ruri:
         img: /img/icon/ruri-sig.svg
-        color: '#d4a99c'
+        color: "#d4a99c"
       mizuha:
         img: /img/icon/mizuha-sig.svg
-        color: '#eda956'
+        color: "#eda956"
       reina:
         img: /img/icon/reina-sig.svg
-        color: '#ff67ff'
+        color: "#ff67ff"
       urara:
         img: /img/icon/urara-sig.svg
-        color: '#800080'
+        color: "#800080"
       chiharu:
         img: /img/icon/chiharu-sig.svg
-        color: '#e6989c'
+        color: "#e6989c"
       uta:
         img: /img/icon/uta-sig.svg
-        color: '#4472c4'
+        color: "#4472c4"
       aina:
         img: /img/icon/aina-sig.svg
-        color: '#94ef94'
+        color: "#94ef94"
       mao:
         img: /img/icon/mao-sig.svg
-        color: '#72c396'
+        color: "#72c396"
       luna:
         img: /img/icon/luna-sig.svg
-        color: '#9647ff'
+        color: "#9647ff"
       rino:
         img: /img/icon/rino-sig.svg
-        color: '#f08301'
+        color: "#f08301"
       satsuki:
         img: /img/icon/satsuki-sig.svg
-        color: '#66ffcc'
+        color: "#66ffcc"
       mina:
         img: /img/icon/mina-sig.svg
-        color: '#c1ff38'
+        color: "#c1ff38"
       nao:
         img: /img/icon/nao-sig.svg
-        color: '#50eaff'
+        color: "#50eaff"
       oto:
         img: /img/icon/oto-sig.svg
-        color: '#8d3043'
+        color: "#8d3043"
       emma:
         img: /img/icon/emma-sig.svg
-        color: '#df212c'
+        color: "#df212c"
 
   categoryGroup:
     G1:
@@ -143,10 +142,10 @@ hometop:
 
   recommendList:
     sup: 置顶文章
-    title: 僕は今夜、出て行く
-    url: /2023/04/27/3879e3a97261fe5069cf38f0a9cfa505/
-    img: https://files.zzzhxxx.top/img/048658293991c3d18c3e7408de772.jpg
-    color: '#006a73'
+    title: 魔法がとけそう🧚🏻‍♀️
+    url: /2024/06/17/feb608592af9aa741e005f75993d1848/
+    img: https://files.227wiki.eu.org/d/Backup/Blog/moe/mobneaWAw.jpg
+    color: "#006a73"
 
 # 个人卡片
 aside:
@@ -174,7 +173,7 @@ aside:
       url: https://227wiki.eu.org
 
   flip:
-    color: '#0099FF'
+    color: "#0099FF"
     face:
       title: 网站
       desc: 访问网站获取更多信息
@@ -183,7 +182,7 @@ aside:
       desc: 获取最新信息和帮助
       img: /img/qrcode.png
 
-  toc: 
+  toc:
     post: true
     page: false
 
@@ -195,7 +194,7 @@ aside:
     uv: false
     updatetime: false
     runtimeenable: true
-    runtime: '2023-05-02 00:00:00'
+    runtime: "2023-05-02 00:00:00"
 
 # 页脚
 footer:
@@ -240,7 +239,7 @@ page:
   tags: true
   categories: true
   default:
-    cover: /img/hello.jpg   
+    cover: /img/hello.jpg
 
 # 文章页默认设置
 post:
@@ -256,15 +255,15 @@ post:
     wordcount: false
     readtime: false
     pv: false
-    comment: false      
+    comment: false
   award:
     enable: false
     wechat:
     alipay:
     url:
-  covercolor: #文章cover取色  
+  covercolor: #文章cover取色
     enable: false
-    local: false 
+    local: false
 
 # 关于界面
 about: false
@@ -297,7 +296,7 @@ loading:
 # 第三方设置
 thirdparty:
   wordcount: false
-  busuanzi: 
+  busuanzi:
     enable: false
     usecomment: false #当评论系统开启时文章页面使用评论系统的统计数据
   search:
@@ -309,11 +308,11 @@ thirdparty:
       enable: false
       preload: false
       CDN:
-    
+
   aplayer:
     enable: false
     server: tencent
-    id: 1708664797      
+    id: 1708664797
 
 # 评论
 comment:
@@ -323,11 +322,10 @@ comment:
     # region: ap-shanghai
     path: window.location.pathname
 
-
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 # 插入额外代码 如：统计，广告等
-extends: 
-  head: # 在head中插入
+extends:
+  head:# 在head中插入
     # - <script></script>
   body: # 在body中插入
 
