@@ -1058,10 +1058,10 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 凉花萌
-    title: 魔法がとけそう🧚🏻‍♀️
-    image: https://files.227wiki.eu.org/d/Backup/Blog/moe/mobneaWAw.jpg
-    link: /2024/06/17/feb608592af9aa741e005f75993d1848/
+    tips: 西條和
+    title: 2025.8.31
+    image: https://files.227wiki.eu.org/d/Backup/Blog/nagomi/mobswSYcO.jpg
+    link: /2025/08/31/a88ec2fbf194c506029c912474deb59e/
 
 # 朋友圈配置
 friends_vue:
