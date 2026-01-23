@@ -7,12 +7,10 @@ categories:
 - 白沢かなえ
 description: こんばんは、白沢かなえです🌷🌷今日はAnimeJapanにてフライヤー配りをしました〜〜〜！ノルマ？が200枚ずつだったのですが、見事200枚配りきりました〜〜〜🌸私っ...
 cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/78f55847ec39c574241ac5693d7cd.png 
+translated: true
 ---
-
-
-
-
-
+<div class="article-content-container">
+    <div class="article-original-jp">
 こんばんは、白沢かなえです🌷🌷
 
 ![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/78f55847ec39c574241ac5693d7cd.png)
@@ -107,3 +105,84 @@ AnimeJapan2日間おつかれさまでした！
 またね。
 
 
+
+    </div>
+    <div class="article-translated-cn" style="display:none;">
+{% raw %}
+晚上好，我是白泽香苗🌷🌷
+<br>
+<div class="nananiji-img-placeholder"></div>
+<br>
+今天在 AnimeJapan 发传单啦～～～！
+<br>
+<br>
+<br>
+指标？是一个人 200 张，
+<br>
+我漂亮地全部发完啦～～～🌸
+<br>
+<br>
+<br>
+我可能很有发传单的天赋呢…
+<br>
+<br>
+以前也有过几次发传单的机会，当时 ちはるん 和我就发得超级好っ☺️✨
+<br>
+<br>
+能发挥出这份天赋真是太好啦🌷
+<br>
+<br>
+<br>
+<br>
+在休息室里和 Cosplayer 们待在一起，大家真的都太美了，我不自觉地就一直在偷瞄 ( 〃 ˆᴗˆ 〃 )🧡
+<br>
+<br>
+于是，想要出 Cos 的欲望就开始蹭蹭蹭地冒了出来
+<br>
+<br>
+虽然我一直嚷嚷着想出《魔卡少女樱》的知世酱，但今天 れったん 对我说：“那我就出小樱！”
+<br>
+<br>
+吼呃～～～～～～～～(。＞o＜。)🌸
+<br>
+<br>
+玩起了角色扮演游戏 (笑)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+发完传单后必须马上离开会场……好难过
+<br>
+<br>
+好想在里面到处转转呀
+<br>
+<br>
+虽然没能搞清楚到底有哪些作品参展了，但里面一定也有我喜欢的动画，好想买点周边呀……
+<br>
+<br>
+<br>
+<br>
+<br>
+但是！
+<br>
+<br>
+再次感谢大家，
+<br>
+AnimeJapan 的这两天辛苦了！
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+感谢大家的阅读。
+<br>
+<br>
+再见咯。
+{% endraw %}
+</div>
+</div>

@@ -7,10 +7,10 @@ categories:
 - 宮瀬玲奈
 description: こんばんฅ՞•ﻌ•՞ฅﾜﾝ今日も一日おつかれいにゃん✨先日、「割り切れないライブ～シャンプーの匂いがした～」ライブのDVDをいただき、見させていただきました。...
 cover: https://files.227wiki.eu.org/d/Backup/Blog/reina/2006fda7651b38b9d894d3429feaf.jpg 
+translated: true
 ---
-
-
-
+<div class="article-content-container">
+    <div class="article-original-jp">
 こんばんฅ՞•ﻌ•՞ฅﾜﾝ
 
 
@@ -195,3 +195,145 @@ cover: https://files.227wiki.eu.org/d/Backup/Blog/reina/2006fda7651b38b9d894d342
 おやすれにゃ💓
 
 
+
+    </div>
+    <div class="article-translated-cn" style="display:none;">
+{% raw %}
+晚上好ฅ՞•ﻌ•՞ฅﾜﾝ
+<br>
+<br>今天一天也辛苦玲喵了✨
+<br>
+<br>
+<br>
+<br>
+<br>前几天，
+<br>
+<br>我收到了「除不尽的演唱会～闻到了洗发水的味道～」
+<br>演唱会的DVD，已经看过了哦。
+<br>
+<br>
+<br>
+<br>虽然现在还没有正式发售，
+<br>但能了解到在大家眼中我们是什么样子的，
+<br>真的学到了很多。
+<br>
+<br>
+<br>也发现了自己新的课题，
+<br>
+<br>
+<br>而且
+<br>真的真的感受到了大家的温暖。
+<br>
+<br>
+<br>
+<br>
+<br>想要变得能够为大家带来更多喜悦、
+<br>让大家露出更多笑容的表演。
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>谢谢大家在昨天的博客里留了这么多言！
+<br>
+<br>
+<br>我全都看过了哦✩
+<br>
+<br>
+<br>关于和噜哩的组合名，
+<br>我会找噜哩商量一下的✩
+<br>
+<br>
+<br>大家的各种方案，
+<br>真的非常感谢❤︎
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>虽然迟到了一天...
+<br>
+<br>
+<br><div class="nananiji-img-placeholder"></div>
+<br>
+<br>
+<br>
+<br>
+<br>雏偶人🎎💓
+<br>
+<br>
+<br>虽然很吃惊已经到了这个季节了，
+<br>但无论什么时候看都觉得很漂亮，玲个人非常喜欢雏偶人。
+<br>
+<br>
+<br>
+<br>这组雏偶人是和家人在一起的时候发现的，
+<br>总觉得好开心呀♡
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>到了3月，
+<br>一下子就变暖和了呢✨
+<br>
+<br>
+<br>
+<br>
+<br>是春天呢。
+<br>
+<br>
+<br>虽然不喜欢和朋友离别之类的，
+<br>但除去这些，我最喜欢春天这个季节了。
+<br>
+<br>
+<br>
+<br>这种渐渐变暖的感觉，
+<br>还有渐渐绽放的花朵，
+<br>苏醒的小虫子们，
+<br>感觉万物都在萌生。
+<br>
+<br>
+<br>
+<br>
+<br>但是
+<br>玲我有轻微的花粉症...（笑）
+<br>
+<br>
+<br>
+<br>正戴着口罩生活。
+<br>
+<br>因为现在还不算严重，所以还在等着我的花粉症什么时候会大爆发呢
+<br>
+<br>
+<br>
+<br>有花粉症的小伙伴一起度过难关吧。
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>谢谢你读我的博客✩
+<br>
+<br>
+<br>晚安玲喵💓
+{% endraw %}
+</div>
+</div>

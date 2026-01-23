@@ -7,7 +7,10 @@ categories:
 - 涼花萌
 description: ななばんは〜〜！ナナニジライブ#1ありがとうございました〜〜💓💓2019年初ライブ♪今までで1番曲数が多いから、来てくれてるみんなと一緒にいれる時間...
 cover: https://files.227wiki.eu.org/d/Backup/Blog/moe/526262194bf49c90d2cad5ccd8ca7.jpg 
+translated: true
 ---
+<div class="article-content-container">
+    <div class="article-original-jp">
 <div class="blog_detail__main">
 <br/>
 <br/>
@@ -158,3 +161,153 @@ cover: https://files.227wiki.eu.org/d/Backup/Blog/moe/526262194bf49c90d2cad5ccd8
 
 <!--//twitter-->
 </img></img></img></div>
+    </div>
+    <div class="article-translated-cn" style="display:none;">
+{% raw %}
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+七晚好~~！<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+Nanani-ji Live #1<br/>
+<br/>
+<br/>
+非常感谢大家~~💓💓<br/>
+<div class="nananiji-img-placeholder"></div><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+2019年的第一场演唱会♪<br/>
+<br/>
+<br/>
+<br/>
+因为这次是至今为止曲数最多的一次，能和到场的大家在一起的时间变长了，光是想到这一点，我就超级开心的说☺️<br/>
+<br/>
+<br/>
+而且大家还那么大声地为我们应援，现场气氛超级热烈，真的是一段超级 happy happy 的幸福时光💓💓<br/>
+<br/>
+<br/>
+<br/>
+如果大家也和我是一样的心情，我会很开心的呢☺️<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+然后呢~~😊<br/>
+<br/>
+为了！这场！定期公演！！<br/>
+<br/>
+<br/>
+<br/>
+运营还专门为我们制作了新衣服哦~~😊<br/>
+<div class="nananiji-img-placeholder"></div><br/>
+<br/>
+<br/>
+<br/>
+大家觉得怎么样呀~~？😊<br/>
+<br/>
+<br/>
+<br/>
+可爱吗~~？？😊<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+因为没能拍到穿着新衣服的照片，就去官推那里把照片拿过来啦🙈<br/>
+<br/>
+<br/>
+<br/>
+下次穿的时候一定要记得拍照呀~~📸<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+还有一件事❣️<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+从2月开始，个人环节就要开始了哟~~💓<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+下次的2/25是...<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+Ainacchi~~💓💓💓💓💓💓💓<br/>
+<div class="nananiji-img-placeholder"></div><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+好想在第一排看 Nacchi 的个人环节呀~~😍<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+订阅了 22/7 邮件杂志的朋友们现在可以优先申请，记得去报名哦~~💓<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+绝对不能错过 Nacchi 的个人环节哦~~❣️<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+为了让 Nanani-ji Live 成为大家每个月的期待，我会加油努力哒（Ganbari-Muscle）💪🏻<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+先这样啦~~(*^o^*)<br/>
+<br/>
+<br/>
+萌 寄❤︎
+{% endraw %}
+</div>
+</div>

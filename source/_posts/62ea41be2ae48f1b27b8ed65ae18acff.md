@@ -7,13 +7,10 @@ categories:
 - 白沢かなえ
 description: ！！！告知！！！1/22(月)20時より『11人で重大発表しちゃいまSP！』を行います！11人で久しぶりのshowroom配信です！なにやら占いを行うそう…🔮私、テレビの星座占...
 cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/014dc17b0e3614d3b05553c9c5254.jpg 
+translated: true
 ---
-
-
-
-
-
-
+<div class="article-content-container">
+    <div class="article-original-jp">
 ！！！告知！！！
 
 
@@ -190,3 +187,160 @@ cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/014dc17b0e3614d3b05553c9
 またね
 
 
+
+    </div>
+    <div class="article-translated-cn" style="display:none;">
+{% raw %}
+！！！告知！！！<br>
+<br>
+<br>
+1月22日（周一）20时起<br>
+我们要进行<br>
+“11人重大发表特辑SP！”啦！<br>
+是久违的11人Showroom直播！<br>
+<br>
+<br>
+<br>
+好像还要进行占卜的样子...🔮<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+我啊，只看过电视上的星座占卜，<br>
+或者自己给自己占卜过！<br>
+<br>
+还从来没有让别人帮我占卜过呢！<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+以前曾和朋友约好一起去找有名的占卜师，<br>
+但当时因为我自己的时间没排开，结果没去成...！<br>
+<br>
+<br>
+<br>
+之后就把占卜的事给忘了，<br>
+结果听说这次要玩占卜，心里痒痒的...<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+好在意啊，心跳加速<br>
+<br>
+不过还是有点害怕呢～～～唔唔<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+还有，<br>
+<br>
+重大发表到底是什么呢～～～<br>
+<br>
+真希望不要老是搞这些对心脏不好的事情呀～<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+就是这种感觉的心理状态。<br>
+<br>
+大家也怀着紧张激动的心情迎接当天的到来吧！<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+但是但是，这种心情下<br>
+打扫卫生根本没进度嘛！！！！<br>
+<br>
+<br>
+<br>
+<br>
+今天一整天都在大扫除。<br>
+说是大扫除，其实主要是整理文件。<br>
+文件啦物品之类的，我倒是能挺干脆地断舍离，但是，<br>
+<br>
+<br>
+<br>
+<br>
+衣服。<br>
+<br>
+<br>
+<br>
+唯独衣服怎么也舍不得扔...<br>
+<br>
+<br>
+<br>
+<br>
+当然穿不了的肯定会扔掉，但<br>
+<br>
+・面料还没坏！<br>
+・设计也很可爱！<br>
+・但就是不怎么穿！<br>
+<br>
+这种衣服真的攒了好多，根本下不了手去扔。<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+我的衣服很多都是均码的，<br>
+但我身高163cm，<br>
+而女性平均身高（据说）是158cm，<br>
+所以均码的衣服<br>
+对我来说稍微有点小呢。<br>
+而且，衣长也很短。<br>
+<br>
+<br>
+但也不是说完全穿不下！<br>
+就是这种微妙的大小，<br>
+让我扔起来犹豫不决。<br>
+<br>
+<br>
+<br>
+<br>
+就因为这样，资料啊教科书啊什么的<br>
+都没地方放了，超困扰的。<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+结果到最后衣服也没整理成，<br>
+一直在弄文件。<br>
+<br>
+衣服到底什么时候才能扔掉呀...！<br>
+<br>
+<br>
+<br>
+<div class="nananiji-img-placeholder"></div><br>
+<br>
+<br>
+<br>
+困扰之图。<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+感谢大家的阅读。<br>
+<br>
+再见咯
+{% endraw %}
+    </div>
+</div>

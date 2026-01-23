@@ -7,7 +7,10 @@ categories:
 - 天城サリー
 description: 本日ご紹介したい推しメンがおります！この方です！ジャジャン〜😍可愛いな〜性格も良くて面白いし🤣前世でどんないいことをすればこんな完璧に生まれてこれるんだろう...あ、ちなみに、その子の隣にいるのが倉岡...
 cover: https://files.227wiki.eu.org/d/Backup/Blog/sally/mobvJRc8s.jpg 
+translated: true
 ---
+<div class="article-content-container">
+    <div class="article-original-jp">
 ![](https://files.227wiki.eu.org/d/Backup/Blog/sally/mobvJRc8s.jpg)
 ![](https://files.227wiki.eu.org/d/Backup/Blog/sally/mobNCS9a5.jpg)
 ![](https://files.227wiki.eu.org/d/Backup/Blog/sally/mobasn5fI.jpg)
@@ -192,3 +195,150 @@ cover: https://files.227wiki.eu.org/d/Backup/Blog/sally/mobvJRc8s.jpg
 
 
 
+
+    </div>
+    <div class="article-translated-cn" style="display:none;">
+{% raw %}
+<div class="nananiji-img-placeholder"></div><br>
+<div class="nananiji-img-placeholder"></div><br>
+<div class="nananiji-img-placeholder"></div><br>
+<br>
+今天要向大家介绍一位我的首推成员！<br>
+<br>
+<br>
+<br>
+<br>
+就是这位！<br>
+<br>
+<br>
+<br>
+<br>
+锵锵〜😍<br>
+<br>
+<br>
+好可爱呀〜<br>
+<br>
+性格也好，人也超级有趣🤣<br>
+前世到底是积了多少德，才能生得这么完美啊...<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+啊，顺带一提，在那孩子旁边的是仓冈酱！<br>
+仓冈酱也很可爱呢。嗯。<br>
+<br>
+<br>
+.....<br>
+<br>
+.........<br>
+<br>
+<br>
+*全世界*<br>
+<br>
+<br>
+啊，好的。对不起。<br>
+<br>
+不是啦，但是....我在想写博客到现在好像还没做过自我介绍....ʕ•ᴥ•ʔ 偷看<br>
+<br>
+就当是走个形式？<br>
+<br>
+呐？<br>
+<br>
+可以吗？<br>
+<br>
+可以嘛〜！？(没人说话)<br>
+<br>
+太棒啦——！(估计根本没在听吧)<br>
+<br>
+那我要开始喽。<br>
+<br>
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>
+<br>
+我是天城莎莉！<br>
+<br>
+血型: B<br>
+<br>
+身高: 165.1cm<br>
+<br>
+负责角色:<br>
+✨藤间樱 🌸<br>
+(角色设计: カントクさん)<br>
+<br>
+虽然有点“笨蛋家长”心态，但我最喜欢小樱了！<br>
+啊，当然大家的角色都很可爱啦！<br>
+但是呢〜<br>
+<br>
+快看这可爱的样子！<br>
+心跳加速到不行啊！💓<br>
+<br>
+<br>
+小樱最讨厌歪门邪道的事情了🤨<br>
+笔直率真又可爱的笑容非常有魅力😄<br>
+是一位17岁的大小姐！<br>
+我会非常非常用心地守护她成长的，<br>
+请大家期待她今后的表现哦！<br>
+<br>
+<br>
+<br>
+话题回到天城这边。<br>
+<br>
+出身: 洛杉矶 🇺🇸<br>
+<br>
+喜欢的食物: 红豆馅年糕、三文鱼寿司、披萨、花林糖馒头<br>
+<br>
+讨厌的食物: 煮胡萝卜 🥕<br>
+<br>
+超级喜欢死亡游戏类、各种纠葛背叛题材的漫画！<br>
+<br>
+憧憬的声优: 杉田智和さん！<br>
+<br>
+憧憬的偶像: 鈴木愛理さん、松浦亜弥さん<br>
+<br>
+22/7首推: 瑞哈和莎莉的组合💖<br>
+<br>
+想去的地方: 冲绳<br>
+<br>
+犬派🐶🐕🐩<br>
+<br>
+想尝试的发色: 灰粉色<br>
+<br>
+喜欢的发型: 波波头<br>
+<br>
+最近的烦恼: 睡眠不足<br>
+<br>
+兴趣: 写小说/读书、看动画<br>
+<br>
+喜欢的季节: 本来是冬天...但因为干燥得太厉害，现在转投秋天了<br>
+<br>
+擅长科目: 数学、体育<br>
+<br>
+不擅长科目: 历史。毕竟我可是“不回头看过去”主义者。目标只有光明的未来！<br>
+<br>
+缺点: 腿<br>
+<br>
+优点: 躯干<br>
+<br>
+欸，不是在说这个？嘛，那也不错嘛。<br>
+<br>
+小小的小自豪: 运动神经超级好！<br>
+<br>
+喜欢的地方: 夜晚的大海<br>
+<br>
+现在最想要的东西: 时光机<br>
+<br>
+想做的事: 踢罐子、大规模的捉迷藏／躲猫猫<br>
+<br>
+不想做的事: 功课<br>
+<br>
+今天就先到这里吧<br>
+<br>
+顺带一提，回答会根据心情改变。现在的天城现状就是这样一个孩子<br>
+<br>
+如果有其他问题的话，请在 #天城サリー 提问哦！<br>
+<br>
+拜拜啦〜
+{% endraw %}
+</div>
+</div>

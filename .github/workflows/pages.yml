@@ -1,60 +1,85 @@
 name: Pages
-# 触发器、分支
+
+# 触发器
 on:
   push:
     branches:
       - master # default branch
+  workflow_dispatch:
+
 jobs:
-  # 子任务
   pages:
-    runs-on: ubuntu-latest # 定运行所需要的虚拟机环境
+    runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write 
+    
     steps:
-      - uses: actions/checkout@v2
-        # with:
-        #   submodules: true
-        #   fetch-depth: 0
-      # 每个name表示一个步骤:step
-      - name: Use Node.js 18.x
-        uses: actions/setup-node@v2
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          node-version: "18.16.0" # 自己正在使用的node版本即可
-      # - run: node -v # 查看node版本号
-      # 缓存依赖项: https://docs.github.com/cn/actions/using-workflows/caching-dependencies-to-speed-up-workflows
-      # - name: Cache NPM dependencies
-      #   uses: actions/cache@v2
-      #   with:
-      #     # npm cache files are stored in `~/.npm` on Linux/macOS
-      #     path: ~/.npm
-      #     # path: node_modules
-      #     key: ${{ runner.OS }}-npm-cache
-      #     restore-keys: |
-      #       ${{ runner.OS }}-npm-cache
-      # # 查看路径 : /home/runner/work/blog/blog
-      # # - name: Look Path
-      # #   run: pwd
-      # # 查看文件
-      # - name: Look Dir List
-      #   run: tree -L 3 -a
-      # 第一次或者依赖发生变化的时候执行 Install Dependencies，其它构建的时候不需要这一步
+          fetch-depth: 0 
+
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip' # 缓存 pip 依赖
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+
+      - name: Run Auto Translate
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if [ -f auto_translate.py ]; then
+            python auto_translate.py
+          else
+            echo "auto_translate.py not found, skipping..."
+          fi
+
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name '22/7 WiKi Bot'
+          git config --global user.email 'bot@227wiki.eu.org'
+          
+          git add source/_posts/*.md
+          
+          if ! git diff-index --quiet HEAD; then
+            echo "Changes detected, committing..."
+            git commit -m "chore: auto translate blog posts [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Use Node.js 18.x
+        uses: actions/setup-node@v4 
+        with:
+          node-version: "18.16.0"
+          cache: 'npm'
+
       - name: 安装 Hexo
         run: |
           export TZ='Asia/Shanghai'
           npm install hexo-cli -g
 
-      - name: 缓存 Hexo
+
+      - name: 缓存 Hexo Node Modules
         id: cache-npm
         uses: actions/cache@v3
         env:
           cache-name: cache-node-modules
         with:
           path: node_modules
-          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-v3-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
-            ${{ runner.os }}-build-${{ env.cache-name }}-
-            ${{ runner.os }}-build-
-            ${{ runner.os }}-
+            ${{ runner.os }}-build-${{ env.cache-name }}-v3-
 
       - name: 安装依赖
         if: ${{ steps.cache-npm.outputs.cache-hit != 'true' }}
@@ -66,40 +91,28 @@ jobs:
         run: |
           hexo clean
           hexo generate
-      - name: Deploy
+
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY  }}
-          user_name: zzzhxxx
-          user_email: zhxsend@gmail.com
-          # 获取提交文章源码时的commit message，作为发布gh-pages分支的信息
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          user_name: 227wiki-bot
+          user_email: bot@227wiki.eu.org
           commit_message: ${{ github.event.head_commit.message }}
           full_commit_message: ${{ github.event.head_commit.message }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # GITHUB_TOKEN不是个人访问令牌，GitHub Actions 运行器会自动创建一个GITHUB_TOKEN密钥以在您的工作流程中进行身份验证。因此，您无需任何配置即可立即开始部署
           publish_dir: ./public
-          allow_empty_commit: true # 允许空提交
-      # Use the output from the `deploy` step(use for test action)
-      - name: Get the output
-        run: |
-          echo "${{ steps.deploy.outputs.notify }}"
-      - name: Deploy to Azure Static Web Apps
-        uses: actions/checkout@v3
-        with:
-          submodules: true
-          lfs: false
+          allow_empty_commit: true
+
+      
       - name: Azure Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_THANKFUL_HILL_043698F00 }}
-          repo_token: ${{ secrets.GITHUB_TOKEN }} # Used for Github integrations (i.e. PR comments)
-          action:
-            "upload"
-            ###### Repository/Build Configurations - These values can be configured to match your app requirements. ######
-            # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
-          app_location: "/" # App source code path
-          api_location: "" # Api source code path - optional
-          output_location:
-            "./public" # Built app content directory - optional
-            ###### End of Repository/Build Configurations ######
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          action: "upload"
+          app_location: "/" 
+          api_location: "" 
+          output_location: "./public" 
+          skip_app_build: true 

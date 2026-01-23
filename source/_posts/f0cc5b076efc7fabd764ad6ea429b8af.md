@@ -7,11 +7,10 @@ categories:
 - 宮瀬玲奈
 description: こんばんU•ω•Uﾜﾝ本日池袋サンシャインシティ噴水広場にて、リリースイベントLIVEを行わせていただきました。ありがとうございました✨今日は2ndシングルの曲を5曲とも...
 cover: https://files.227wiki.eu.org/d/Backup/Blog/reina/b897e27b930cc0c4d6c31b48e87a6.png 
+translated: true
 ---
-
-
-
-
+<div class="article-content-container">
+    <div class="article-original-jp">
 こんばんU•ω•Uﾜﾝ
 
 
@@ -264,3 +263,100 @@ cover: https://files.227wiki.eu.org/d/Backup/Blog/reina/b897e27b930cc0c4d6c31b48
 おやすれにゃ💓
 
 
+
+    </div>
+    <div class="article-translated-cn" style="display:none;">
+{% raw %}
+晚上好U•ω•U汪<br>
+<br>
+今天<br>
+在池袋阳光城喷水广场，<br>
+举办了发售纪念活动的LIVE。<br>
+<br>
+非常感谢大家✨<br>
+<br>
+今天表演了第2张单曲里的全部5首歌。<br>
+<br>
+因为有很多曲子是初次披露，<br>
+在开始之前，超级紧张的。<br>
+<br>
+但是一旦开始之后，每一首歌都顺利结束了...。<br>
+<br>
+所有的曲子，我都倾注了感情去演唱。<br>
+<br>
+每一首都有着很棒的歌词和曲调，所以唱得很开心。<br>
+<br>
+(《人格崩坏》的时候眼神表现得太冰冷了...)<br>
+<br>
+最重要的是正式演出时，<br>
+看到大家的笑容，我也变得开心起来了。<br>
+<br>
+谢谢大家给了我这么多帮助。<br>
+<br>
+最后唱的《闻到了洗发水的香味》，最后部分的记忆都断片了<br>
+很担心自己有没有好好完成。<br>
+<br>
+击掌会也谢谢大家了。<br>
+能和大家冷静地聊天。<br>
+大家对我说的每一句话都让我非常开心。<br>
+<br>
+又要让大家担心我的身体，真的对不起。<br>
+<br>
+之后，明天和后天也想和大家聊很多话呀。<br>
+<br>
+<div class="nananiji-img-placeholder"></div><br>
+<br>
+盯着看<br>
+拍了照<br>
+发售日后的第2天的今天。<br>
+<br>
+（挑战了一下藏头诗（自拍）。）<br>
+<br>
+<div class="nananiji-img-placeholder"></div><br>
+<br>
+噜哩和大耳狗💓<br>
+<br>
+虽然噜哩的手指正戳在大耳狗的脑袋里<br>
+但大家感情真好呢💓<br>
+<br>
+<div class="nananiji-img-placeholder"></div><br>
+<br>
+Live结束之后，在回去的路上，在池袋阳光城那里吃了酷圣石的可丽饼💓<br>
+虽然冰淇淋、可丽饼、芭菲我都超喜欢，但今天想吃可丽饼的心情占了上风✩<br>
+<br>
+冰淇淋(是在可丽饼里面的)和水果果肉简直是绝配<br>
+超级好吃的。<br>
+<br>
+是芝士蛋糕味✨<br>
+大家也请一定要去尝尝看。<br>
+<br>
+今天真的非常感谢大家。<br>
+<br>
+我会活用今天的经验，<br>
+明天的土浦场也会加油的！<br>
+<br>
+对我个人来说是第一次去茨城县...！<br>
+茨城县的各位请多多关照。<br>
+<br>
+土浦场，希望能让大家看到比今天更加进化的姿态。<br>
+<br>
+每一场演出都要好好珍惜，<br>
+想要一步一个脚印地走下去。<br>
+<br>
+明天的日程是<br>
+第1部：13点开始<br>
+第2部：16点开始<br>
+<br>
+在 AEON Mall土浦 1F 花火广场。<br>
+11个人一起等着大家哦(,,>ω<,,)✨<br>
+<br>
+明天从远方赶来的各位，<br>
+路上请注意安全。<br>
+<br>
+那么<br>
+今天一天也辛苦了，谢谢大家✩<br>
+<br>
+晚安玲喵💓
+{% endraw %}
+</div>
+</div>

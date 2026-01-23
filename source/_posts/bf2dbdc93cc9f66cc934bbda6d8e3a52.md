@@ -7,17 +7,10 @@ categories:
 - 白沢かなえ
 description: ついに明日となりました！「22/7 割り切れないライブ〜シャンプーの匂いがした〜」今日は本番前最後の練習でした〜れいにゃんと写真撮って...
 cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/ae455663f3b21c07c5b3dbd786ec0.jpg 
+translated: true
 ---
-
-
-
-
-
-
-
-
-
-
+<div class="article-content-container">
+    <div class="article-original-jp">
 ついに明日となりました！
 
 
@@ -184,3 +177,126 @@ YouTube見てる最中に寝落ちするのが
 またね。
 
 
+
+    </div>
+    <div class="article-translated-cn" style="display:none;">
+{% raw %}
+终于就在明天了！<br>
+<br>
+<br>
+「22/7 不可分Live<br>
+〜闻到了洗发水的味道〜」<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+今天是在正式演出前的最后一次练习〜<br>
+<br>
+<div class="nananiji-img-placeholder"></div><br>
+<br>
+和玲喵拍照的时候<br>
+ちはるん偶然(？)闯进镜头啦〜〜〜<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+对了对了。<br>
+<br>
+和玲喵聊起九州的话题<br>
+气氛总是热烈得让人吃惊！<br>
+<br>
+<br>
+<br>
+这次九州话题的契机是<br>
+<br>
+「白玫瑰咖啡」<br>
+<br>
+<br>
+<br>
+其实那是鸟取县的咖啡牛奶<br>
+但我妈妈以前会专门订购回家<br>
+所以我经常喝呢〜🐮<br>
+<br>
+<br>
+因为超喜欢白玫瑰咖啡，<br>
+我还一直以为是九州的特产，<br>
+所以才问玲喵知不知道〜<br>
+<br>
+<br>
+<br>
+<br>
+在东京当然没有卖的<br>
+虽然也考虑过要不要在网上买〜<br>
+但因为个人原因还是放弃了∩(´；ヮ；｀)∩<br>
+<br>
+<br>
+好想喝啊〜〜〜〜〜〜<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+🌷关于上一篇博文🌷<br>
+<br>
+<br>
+<br>
+稍微有点兔子妆的感觉？<br>
+⇒被你这么一说确实是呢！<br>
+因为基本上都是粉色系的妆容，所以并没有自己在画兔子妆的意识💄<br>
+观察得真仔细呀〜〜〜！<br>
+<br>
+<br>
+想在那种迷迷糊糊的感觉中直接入睡…<br>
+我也很懂这种感觉。<br>
+⇒哇，能对睡着这件事产生共鸣真的好开心！<br>
+那种感觉很舒服对吧〜〜〜<br>
+我会注意不要感冒的！<br>
+也会注意不要低温烫伤的！(笑)<br>
+<br>
+<br>
+在看YouTube的中途睡着是<br>
+最近的乐趣所在<br>
+⇒噢，跟我是一个风格的呢！(笑)<br>
+没什么要忙的时候，<br>
+我就会看着游戏实况不知不觉睡着了〜<br>
+<br>
+<br>
+めろりん…感觉像是拟声词吗？<br>
+⇒嗯〜〜〜，要说接近的话大概是<br>
+「甜瓜🍈」&「神魂颠倒(Meromero)〜〜〜😍」<br>
+这样的感觉呢〜〜〜<br>
+我到底在说什么呀…<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+好啦，<br>
+<br>
+那么<br>
+明天的Live要加油咯〜〜〜〜〜〜〜〜🔥🔥<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+感谢大家的阅读。<br>
+<br>
+再见啦。
+{% endraw %}
+    </div>
+</div>

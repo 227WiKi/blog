@@ -7,7 +7,10 @@ categories:
 - 涼花萌
 description: ななばんは〜〜！握手会の日のお手紙とプレゼント受け取りました〜〜(*^o^*)ありがとう💓お手紙入れのカンカンがもうすぐぱんぱんになる〜〜☺️次は、お手紙...
 cover: https://files.227wiki.eu.org/d/Backup/Blog/moe/2e49d8472c58ea85d63754afaee20.jpg 
+translated: true
 ---
+<div class="article-content-container">
+    <div class="article-original-jp">
 <div class="blog_detail__main">
 <br/>
 <br/>
@@ -102,3 +105,98 @@ cover: https://files.227wiki.eu.org/d/Backup/Blog/moe/2e49d8472c58ea85d63754afae
 
 <!--//twitter-->
 </img></div>
+    </div>
+    <div class="article-translated-cn" style="display:none;">
+{% raw %}
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+晚上好七~~！<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+握手会那天的信和礼物我已经收到啦~~(*^o^*)<br/>
+<br/>
+<br/>
+<br/>
+谢谢大家💓<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+装信的小罐罐马上就要塞得满满当当了~~☺️<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+下次，换个和信件尺寸合适的罐罐吧……🙈<br/>
+<br/>
+<br/>
+<br/>
+因为现在的这个不硬挤进去就不行了呢🙈<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+也谢谢大家的礼物💓<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+🌸我会好好珍惜使用的哦~~🐥<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+🐰芽衣酱🐰<br/>
+<div class="nananiji-img-placeholder"></div><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+26号握手会的休息室里，和芽衣酱聊了超级多，关系又更近了一步呢~~🐰<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+第二天的@JAM也是，基本上一直和芽衣酱待在一起☺️<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+因为是同岁，为了能让亲密度更加蹭蹭往上涨，要多多聊天才行呢~~☺️<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+拜拜啦~~(*^o^*)<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+来自 萌♡
+{% endraw %}
+</div>
+</div>

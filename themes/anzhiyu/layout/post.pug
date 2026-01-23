@@ -26,7 +26,206 @@ block content
             - let data_type_update = theme.post_meta.post.date_type === 'updated'
             - let date_type = data_type_update ? 'updated' : 'date'
             time(itemprop="dateCreated datePublished" datetime=date_xml(page[date_type]) title=date_title + ' ' + full_date(page[date_type]))=date(page[date_type], config.date_format)
+      
+      //- === 1. 样式 ===
+      style.
+        .nananiji-trans-container {
+          text-align: left;
+          margin: 20px 0 30px 0;
+          display: none;
+        }
+        #nananiji-lang-toggle {
+          background: #4CC4DB;
+          color: #fff;
+          border: none;
+          padding: 8px 16px;
+          border-radius: 6px;
+          font-size: 14px;
+          font-weight: bold;
+          cursor: pointer;
+          display: inline-flex;
+          align-items: center;
+          gap: 6px;
+          line-height: 1.5;
+          box-shadow: none; 
+          transition: background 0.2s ease;
+        }
+        #nananiji-lang-toggle:hover {
+          background: #3bbacf;
+        }
+        .nananiji-trans-disclaimer {
+          font-size: 12px;
+          color: #aaa;
+          margin-top: 6px;
+          margin-bottom: 0;
+          margin-left: 2px;
+          display: none;
+        }
+        .article-original-jp, .article-translated-cn {
+          animation: fadePlain 0.3s ease;
+        }
+        @keyframes fadePlain { 
+          from { opacity: 0; } 
+          to { opacity: 1; } 
+        }
+        .nananiji-img-placeholder {
+          display: inline-block;
+          width: 0;
+          height: 0;
+          overflow: hidden;
+        }
+        .nananiji-img-anchor {
+          display: none; 
+        }
+
+      //- 按钮容器
+      div.nananiji-trans-container
+        button#nananiji-lang-toggle(onclick="toggleNananijiLanguage()") 
+          span 🇨🇳 翻译成中文
+        p.nananiji-trans-disclaimer ✨ 由 Google Gemini 提供翻译 · 仅供参考
+
+      //- === 2. 正文 ===
       !=page.content
+
+      //- === 3. 修复脚本 (支持 LazyLoad) ===
+      script.
+        let nananijiImageMap = [];
+        let nananijiInitialized = false;
+
+        function initNananijiTranslator() {
+          const cnBox = document.querySelector('.article-translated-cn');
+          const btnContainer = document.querySelector('.nananiji-trans-container');
+          
+          if (cnBox && btnContainer) {
+            btnContainer.style.display = 'block';
+            if (!nananijiInitialized) {
+              setupImageAnchors();
+              nananijiInitialized = true;
+            }
+          }
+        }
+
+        // 核心修复：获取真实 URL
+        function getRealSrc(img) {
+          // 优先顺序：data-lazy-src -> data-src -> src
+          return img.getAttribute('data-lazy-src') || 
+                 img.getAttribute('data-src') || 
+                 img.getAttribute('src');
+        }
+
+        function setupImageAnchors() {
+          const jpImages = document.querySelectorAll('.article-original-jp img');
+          nananijiImageMap = []; 
+
+          jpImages.forEach((img) => {
+            let wrapper = img.closest('a');
+            
+            // 获取真实链接（避开 base64 占位符）
+            const realSrc = getRealSrc(img);
+
+            // 1. 如果没有 wrapper，手动创建一个
+            if (!wrapper) {
+               wrapper = document.createElement('a');
+               wrapper.href = realSrc; // ✨ 这里用了真实链接！
+               wrapper.setAttribute('data-fancybox', 'gallery');
+               
+               const caption = img.getAttribute('alt') || '';
+               wrapper.setAttribute('data-caption', caption);
+               wrapper.setAttribute('data-thumb', realSrc); // 缩略图也给上
+
+               if (img.parentNode) {
+                 img.parentNode.insertBefore(wrapper, img);
+                 wrapper.appendChild(img);
+               }
+            } else {
+               // 2. 如果本来就有 wrapper，但 href 是 base64 占位符，强制修正它
+               const currentHref = wrapper.getAttribute('href');
+               if (!currentHref || currentHref.startsWith('data:image')) {
+                 wrapper.href = realSrc; // ✨ 强制修正！
+                 wrapper.setAttribute('data-thumb', realSrc);
+               }
+               
+               if (!wrapper.getAttribute('data-fancybox')) {
+                 wrapper.setAttribute('data-fancybox', 'gallery');
+               }
+            }
+            
+            const targetNode = wrapper;
+
+            if (targetNode.getAttribute('data-nananiji-processed')) return;
+
+            // 打桩
+            const anchor = document.createElement('span');
+            anchor.className = 'nananiji-img-anchor';
+            
+            targetNode.parentNode.insertBefore(anchor, targetNode);
+            targetNode.setAttribute('data-nananiji-processed', 'true');
+
+            nananijiImageMap.push({
+              node: targetNode,
+              anchor: anchor
+            });
+          });
+        }
+
+        function toggleNananijiLanguage() {
+          const btn = document.getElementById('nananiji-lang-toggle');
+          const disclaimer = document.querySelector('.nananiji-trans-disclaimer');
+          const jpBox = document.querySelector('.article-original-jp');
+          const cnBox = document.querySelector('.article-translated-cn');
+
+          if (!jpBox || !cnBox) return;
+
+          const isJpVisible = jpBox.style.display !== 'none';
+
+          if (isJpVisible) {
+            moveImagesToPlaceholders();
+            jpBox.style.display = 'none';
+            cnBox.style.display = 'block';
+            btn.innerHTML = '<span>🇯🇵 显示原文</span>';
+            disclaimer.style.display = 'block';
+          } else {
+            returnImagesToAnchors();
+            jpBox.style.display = 'block';
+            cnBox.style.display = 'none';
+            btn.innerHTML = '<span>🇨🇳 翻译成中文</span>';
+            disclaimer.style.display = 'none';
+          }
+        }
+
+        function moveImagesToPlaceholders() {
+          const placeholders = document.querySelectorAll('.article-translated-cn .nananiji-img-placeholder');
+          
+          nananijiImageMap.forEach((item, index) => {
+            if (index < placeholders.length) {
+              const ph = placeholders[index];
+              ph.parentNode.insertBefore(item.node, ph);
+            }
+          });
+          refreshLightbox();
+        }
+
+        function returnImagesToAnchors() {
+          nananijiImageMap.forEach((item) => {
+            if (item.anchor && item.anchor.parentNode) {
+              item.anchor.parentNode.insertBefore(item.node, item.anchor.nextSibling);
+            }
+          });
+          refreshLightbox();
+        }
+
+        function refreshLightbox() {
+          if (typeof Fancybox !== 'undefined') {
+            Fancybox.unbind('[data-fancybox]'); 
+            Fancybox.bind('[data-fancybox]', {
+              groupAll: true,
+              Hash: false,
+              Thumbs: { autoStart: false },
+            });
+          }
+        }
+
+        setTimeout(initNananijiTranslator, 100);
 
     include includes/post/post-copyright.pug
 
@@ -42,4 +241,3 @@ block content
     if page.comments !== false && theme.comments && theme.comments.use
       - var commentsJsLoad = true
       !=partial('includes/third-party/comments/index', {}, {cache: true})
-      

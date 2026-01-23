@@ -7,7 +7,10 @@ categories:
 - 涼花萌
 description: ななばんは〜〜！showroom配信見てくださったみなさん！ありがとうございました〜〜🤗また配信するな〜〜🤗今日は、メイクを...
 cover: https://files.227wiki.eu.org/d/Backup/Blog/moe/ffc4353791fad247d644753654570.jpg 
+translated: true
 ---
+<div class="article-content-container">
+    <div class="article-original-jp">
 <div class="blog_detail__main">
 <br/>
 <br/>
@@ -299,3 +302,296 @@ showroom配信見てくださったみなさん！<br/>
 
 <!--//twitter-->
 </img></img></img></img></img></div>
+    </div>
+    <div class="article-translated-cn" style="display:none;">
+{% raw %}
+<div class="blog_detail__main">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+七色晚安〜〜！<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+看我 showroom 直播的各位！<br/>
+<br/>
+<br/>
+<br/>
+谢谢大家啦〜〜🤗<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+还会再播的哟〜〜🤗<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+今天，化妆风格跟平时不一样哦！<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+被夸奖了超开心的🙈<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+虽然说过“别在博客里说”，但我还是要写下来〜〜✏︎<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+眼线呢，把以前的棕色换成了黑色，而且瞳孔上方画得比较粗哦👁👁<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+最〜〜喜欢 Love Liner 了💓<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+口红呢〜〜<br/>
+<div class="nananiji-img-placeholder"></div><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+今天涂了 Berry 酱举起来的那支哦〜〜💋(No.32 的那支〜〜)<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+平时的话，会涂按住的那支〜〜💋(41 的那支〜〜)<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+然后呢〜〜💋💋💋<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+最后用的是几乎所有成员都人手一只的这个！<br/>
+<div class="nananiji-img-placeholder"></div><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+Flowfushi 的 38°C 系列〜〜💋<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+这支口红，是听瑞叶酱说的呢〜〜♪<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+涂呀涂呀涂呀涂呀涂呀涂呀涂呀涂呀涂呀涂呀💋<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+  🌸鲜花妖精 萌酱🌸<br/>
+                                 完成啦〜〜♪<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div class="nananiji-img-placeholder"></div><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+要吃最喜欢的这个冰淇淋咯〜〜🍦<br/>
+<div class="nananiji-img-placeholder"></div><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+握手会的申请从今天 18 点就开始啦〜〜🍦<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+大家！一定要来看成员们哦〜〜🤗<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div class="nananiji-img-placeholder"></div><br/>
+<br/>
+<br/>
+(从左到右依次是，莎莉酱、萌、千春酱、瑞叶酱)<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+这一天的午饭吃了寿司哦〜〜🍣<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+那就先这样啦〜〜(*^o^*)<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+萌 寄♡
+{% endraw %}
+</div>
+    </div>
+</div>

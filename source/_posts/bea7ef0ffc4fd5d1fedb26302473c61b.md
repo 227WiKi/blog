@@ -7,8 +7,10 @@ categories:
 - 河瀬詩
 description: 河瀬詩です。春のツアー、ナナパレ無事完走しました〜🎉お越しくださった皆さん、配信で見てくださった皆さん、応援してくださった皆さん、本当...
 cover: https://files.227wiki.eu.org/d/Backup/Blog/uta/1a511009b0f9a94e734d46215585b.jpg 
+translated: true
 ---
-
+<div class="article-content-container">
+    <div class="article-original-jp">
         ﻿
 
 
@@ -302,3 +304,93 @@ Zeppツアーはこれまで何度かさせてもらっていて、
 河瀬詩
 
 
+
+    </div>
+    <div class="article-translated-cn" style="display:none;">
+{% raw %}
+我是河濑诗。<br>
+<br>
+春季巡演“Nana-Pare”顺利跑完全程啦〜🎉<br>
+<br>
+来到现场的各位，<br>
+观看直播的各位，<br>
+一直为我们应援的各位，<br>
+<br>
+真的非常感谢大家！<br>
+<br>
+充满春天气息的Nana-Pare演出服、旗舞表演、小组表演前的搞笑小剧场MC？等等<br>
+<br>
+这次巡演有很多全新的尝试呢😌<br>
+<br>
+之前的Zepp巡演也参加过好几次了，<br>
+我隐约感觉到如果只是单纯重复同样的事情是不行的呀。<br>
+<br>
+所以这次能挑战这么多新鲜的事物，真的特别开心……！<br>
+<br>
+印象特别深刻的是……<br>
+出场时用的不是平常的Overture，而是Nana-Pare专用那种轻快欢脱的音乐🎺<br>
+<br>
+很好奇首日来名古屋公演的大家，在听到响起的不是平时的Overture而是小喇叭的声音？时，那一瞬间是怎么想的呢……笑<br>
+<br>
+还有挥旗子也比想象中要难，为了让大家动作整齐划一，我们练习了很多很多遍。<br>
+<br>
+中途还追加了一首旗舞表演曲目！<br>
+比起开场的那首，这边的难度稍微又提高了一些哦🫣<br>
+<br>
+最终场公演的时候我才发现，<br>
+中间“Hure-Hure”的地方，<br>
+有在跟着一起唱的各位谢谢大家了🙇‍♀️笑<br>
+我有好好听到哦！<br>
+<br>
+对了对了，这次从福冈公演开始解禁了欢呼声……<br>
+真的听到了好多大家的呼声……！<br>
+<br>
+这是我目前为止感受到的最强烈的“现场感”，<br>
+好几次都深切体会到应援声的力量好伟大呀、好开心呀☺️<br>
+<br>
+之后的演唱会应该也都是可以欢呼的，<br>
+请让我听到更多大家的呼声吧<br>
+<br>
+然后，说到开心的事情还有一件！<br>
+祝贺花篮，真的非常感谢大家💐🤍<br>
+<br>
+<div class="nananiji-img-placeholder"></div><br>
+<br>
+<div class="nananiji-img-placeholder"></div><br>
+<br>
+<div class="nananiji-img-placeholder"></div><br>
+<br>
+<div class="nananiji-img-placeholder"></div><br>
+<br>
+<div class="nananiji-img-placeholder"></div><br>
+<br>
+<div class="nananiji-img-placeholder"></div><br>
+<br>
+自拍的那几张没能把全貌拍完整真的很抱歉🥲<br>
+每一份礼物我都仔仔细细地看了，内心充满了幸福感……！<br>
+<br>
+也是从这次巡演开始恢复送花篮的，再次真切地感受到了大家在支持着我，真的好开心(；；)<br>
+<br>
+谢谢……！<br>
+<br>
+其实最近这段时间，<br>
+怎么说呢，一直有点烦恼，心情也没法变得开朗起来，<br>
+<br>
+但是在完成这次巡演、感受到了大家的应援后，<br>
+我还是觉得要积极地继续努力下去呀☺️<br>
+<br>
+全都多亏了大家呢〜<br>
+今后也请多多关照。<br>
+<br>
+还有就是，<br>
+巡演虽然结束了，<br>
+下个月还有玲喵的卒业演唱会……！🥲<br>
+<br>
+虽然很寂寞，但为了让与玲喵一起的最后舞台能变得精彩，我会努力的！<br>
+<br>
+感谢大家读到最后🧸<br>
+<br>
+河濑诗
+{% endraw %}
+</div>
+</div>

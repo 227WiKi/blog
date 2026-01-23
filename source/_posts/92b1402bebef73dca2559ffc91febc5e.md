@@ -7,7 +7,10 @@ categories:
 - 西條和
 description:                       merry Christmas.:*はじめまして、ナナブンノニジュウニの西條和です。兵庫県出身です。なごみんと呼ばれています。好きな食べ物はツ...
 cover: https://files.227wiki.eu.org/d/Backup/Blog/nagomi/be3503ae7404d107893bb4874c2a0.jpg 
+translated: true
 ---
+<div class="article-content-container">
+    <div class="article-original-jp">
 <div class="blog_detail__main">
 <br/>
 <br/>
@@ -127,3 +130,125 @@ cover: https://files.227wiki.eu.org/d/Backup/Blog/nagomi/be3503ae7404d107893bb48
 
 <!--//twitter-->
 </img></div>
+    </div>
+    <div class="article-translated-cn" style="display:none;">
+{% raw %}
+<div class="blog_detail__main">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div class="nananiji-img-placeholder"></div><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+                      merry Christmas.:*<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+初次见面，我是 22/7 的西條和。<br/>
+<br/>
+<br/>
+我来自兵库县。大家都叫我 Nagomin。<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+喜欢的食物是金枪鱼罐头，最近变得爱吃的是海鲜煎饼的边边<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+非常简单地做了一下自我介绍<br/>
+想着之后再详细说说吧<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+然后，谢谢大家来参加圣诞活动！<br/>
+<br/>
+<br/>
+<br/>
+久违的活动朗读、第一次的一天两部制、还有握手会，内容非常丰富<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+握手会，和以前不同，能跟大家聊很多话，真的很开心。<br/>
+我不擅长聊天，对不起呢…<br/>
+<br/>
+<br/>
+<br/>
+下次如果有机会的话，我会努力好好说话的！<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+这次没能到场的朋友，哪怕只是有过一点点“想去”的念头，我也会很高兴，这也成了我的支柱。<br/>
+<br/>
+为了能增加更多和大家见面的机会，我会加油的！<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+顺带一提，开头那张蛋糕的照片，是活动最后工作人员们惊喜准备的<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+上面的大饼干，因为大家都跟我说“你来吃吧”，所以我就拿走啦<br/>
+总觉得像是过生日的心情呢<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+啊，对我个人来说，博客开通了真的特别开心。<br/>
+<br/>
+<br/>
+虽然我不擅长说话，也不擅长表达自己，但我很喜欢拍照和修图之类的<br/>
+在博客里，为了能让大家更加了解我，我会努力更新的！<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+想写的东西还有很多，之后再更新哦<br/>
+<br/>
+<br/>
+<br/>
+谢谢大家阅读。
+{% endraw %}
+</div>
+    </div>
+</div>

@@ -7,15 +7,10 @@ categories:
 - 白沢かなえ
 description: こんにちはっ5つくらい書きかけのブログ記事があり、困っています、白沢かなえです🥘プシュー寝落ちが大好きなので(？)よく寝落ちしてしまいます…ごめんなさい(´つ_⊂)プシュ...
 cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/512963610abfa5bdd792c6da812f5.png 
+translated: true
 ---
-
-
-
-
-
-
-
-
+<div class="article-content-container">
+    <div class="article-original-jp">
 こんにちはっ
 
 5つくらい書きかけのブログ記事があり、困っています、白沢かなえです🥘プシュー
@@ -162,3 +157,132 @@ cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/512963610abfa5bdd792c6da
 またね。
 
 
+
+    </div>
+    <div class="article-translated-cn" style="display:none;">
+{% raw %}
+大家好呀<br>
+<br>
+大概有5篇写了一半的博客文章，正困扰着呢，我是白泽香苗🥘呼咻——<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+因为最喜欢睡着的那一瞬间了（？）<br>
+经常就不小心睡着了……<br>
+对不起嘛(´つ_⊂)呼咻——<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+呼咻——是什么……？<br>
+正在这么想的你！<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+其实，这是在4月11日出演的<br>
+「ミュ〜コミ＋」广播节目中诞生的哦！<br>
+<br>
+<br>
+<br>
+“请试着用压力锅的感觉来读……！”<br>
+<br>
+因为よっぴーさん的这一句话，<br>
+就这样脱口而出的就是这个“呼咻——”。<br>
+<br>
+<br>
+<br>
+<br>
+就是压力排出来时的声音呢っ<br>
+<br>
+<br>
+当时满脑子只能想到这个了(笑)<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+和22/7最资深支持者よっぴーさん，<br>
+还有偶像界的大前辈、でんぱ組inc.的成瀬さん一起做了广播，<br>
+让我觉得必须更加、更加深入地思考关于22/7的事情了呢〜。<br>
+<br>
+<br>
+<br>
+<br>
+第2张单曲也已经发售了，<br>
+我会继续进步的！<br>
+<br>
+<br>
+<br>
+よっぴーさん、成瀬さん，<br>
+谢谢你们带给我的美好时光😊🌷<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+刚才也说过了，<br>
+<br>
+<br>
+<br>
+<br>
+4月11日第2张单曲<br>
+<br>
+『シャンプーの匂いがした』<br>
+<br>
+已经正式发行了！<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+然后，为了纪念发售<br>
+今天会举办发行活动！<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+在池袋太阳城喷水广场18点起<br>
+将会举行迷你Live&特典会！<br>
+<br>
+<br>
+<br>
+『循環バス』、『人格崩壊』竟然是Live初次披露哦！<br>
+<br>
+<br>
+<br>
+<br>
+因为直到昨天都进行了很多练习，<br>
+所以希望大家都能来参加呀🌷<br>
+<br>
+<br>
+<br>
+那么等会儿见咯〜🌷<br>
+<br>
+<br>
+<div class="nananiji-img-placeholder"></div><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+感谢大家的阅读。<br>
+<br>
+<br>
+再见啦。
+{% endraw %}
+</div>
+</div>

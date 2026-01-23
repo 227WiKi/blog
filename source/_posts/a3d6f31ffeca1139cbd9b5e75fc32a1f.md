@@ -7,7 +7,10 @@ categories:
 - 天城サリー
 description: どうみ〜 かなえるの盗撮写真をメンバー1持っている自信があります！天城サリーです。サリーの今の壁紙はかなえるの彼女感溢れる一枚です(昨日撮ったので撮れたてほやほや温かいお芋です)あ〜美しい謎にモザイク...
 cover: https://files.227wiki.eu.org/d/Backup/Blog/sally/mob3p3xr7.jpg 
+translated: true
 ---
+<div class="article-content-container">
+    <div class="article-original-jp">
 ![](https://files.227wiki.eu.org/d/Backup/Blog/sally/mob3p3xr7.jpg)
 ![](https://files.227wiki.eu.org/d/Backup/Blog/sally/mobwiICQF.jpg)
 ![](https://files.227wiki.eu.org/d/Backup/Blog/sally/mobiKCOef.jpg)
@@ -77,3 +80,73 @@ cover: https://files.227wiki.eu.org/d/Backup/Blog/sally/mob3p3xr7.jpg
 
 
 
+
+    </div>
+    <div class="article-translated-cn" style="display:none;">
+{% raw %}
+<div class="nananiji-img-placeholder"></div>
+<div class="nananiji-img-placeholder"></div>
+<div class="nananiji-img-placeholder"></div>
+<div class="nananiji-img-placeholder"></div>
+<br>
+嗨～ 我有自信是成员里拥有最多萌酱偷拍照的人！我是天城莎莉。<br>
+<br>
+<br>
+莎莉现在的壁纸是萌酱充满女朋友感的一张照片<br>
+(因为是昨天拍的，还是新鲜出炉热腾腾的地瓜呢)<br>
+<br>
+<br>
+啊～真美<br>
+<br>
+<br>
+莫名其妙打了个码ww<br>
+(为了不被萌酱骂)<br>
+<br>
+说起来工作的时候总是会准备各种各样的食物呢。。。<br>
+<br>
+<br>
+但是天城在减肥所以不能吃呢。。<br>
+<br>
+<br>
+不过因为想给食物们好好地传达爱意，所以我会乱涂乱画。<br>
+<br>
+<br>
+“并不是因为讨厌才不吃你的哦。。总有一天我一定会来接你的。”<br>
+<br>
+<br>
+我总是抱着这样的心情在涂鸦<br>
+<br>
+<br>
+<br>
+零食也有好多！<br>
+<br>
+<br>
+<br>
+一旦拆开就会像遇到食人鱼一样瞬间消失！<br>
+<br>
+<br>
+所以在那上面我也留下了莎莉的声音。<br>
+<br>
+<br>
+减肥真的好难啊～ 越是想着必须瘦下来肚子就越是饿饿饿饿饿<br>
+<br>
+<br>
+平时明明有那种看漫画看到入迷发现到晚上都没吃东西的情况，减肥中哪怕只是一点点饮食限制都觉得好悲伤<br>
+<br>
+<br>
+减去衣食住里的“食”，我正过着2/3的人生。衣住(？)。。移住！！移住/衣住到日本的莎莉。开玩笑的<br>
+<br>
+<br>
+今天直播结束后也要去瑜伽！！加油啦！！<br>
+<br>
+<br>
+总觉得看了2nd单曲B版里附带的22/7纪录片后，就想着要加油了呢～。(宣传) 晚上和千春酱聊了纪录片的感想，最后做出了总之减肥也要加油啊～的决定！<br>
+<br>
+<br>
+也想让大家看看！(我在爱奈酱的那一部分哭得很厉害。。到底是哪里呢。。？)<br>
+<br>
+<br>
+那么再见喽！！！
+{% endraw %}
+</div>
+</div>

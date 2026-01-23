@@ -7,7 +7,10 @@ categories:
 - 涼花萌
 description: ななばんは〜〜！今日のくらてん！にゲストとして呼んでもらって〜〜ん📻💓わぁ〜〜い🤗くらてん！初ゲストやねんて〜〜🤗🤗くらてんフェス♪ってゆうこと...
 cover: https://files.227wiki.eu.org/d/Backup/Blog/moe/36e9c437eb078be18382f3bd39eb6.jpg 
+translated: true
 ---
+<div class="article-content-container">
+    <div class="article-original-jp">
 <div class="blog_detail__main">
 <br/>
 <br/>
@@ -195,3 +198,193 @@ cover: https://files.227wiki.eu.org/d/Backup/Blog/moe/36e9c437eb078be18382f3bd39
 
 <!--//twitter-->
 </img></img></div>
+    </div>
+    <div class="article-translated-cn" style="display:none;">
+{% raw %}
+<div class="blog_detail__main">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+晚上七点好～～！<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+被叫去今天的《仓天！》当嘉宾了哦～～📻💓<br/>
+<div class="nananiji-img-placeholder"></div><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+哇～～い🤗<br/>
+<br/>
+据说我是《仓天！》的第一个嘉宾呢～～🤗🤗<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+因为是“仓天祭♪”……<br/>
+<br/>
+<br/>
+<br/>
+捉了虫子、<br/>
+吃了流水素面、<br/>
+还搭了帐篷～～🏕🏕<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+内容超级有夏天的感觉🏄‍♀️🍉🍍🌻<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+到处乱跑、尖叫，做了各种各样的事呢☺️<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+瑞酱、莎莉酱谢谢啦🐖💓💓<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+下次还要再叫我哦😊💓💓<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+大家也要在每周日早上的11点，收听！收看！《仓天！》哦👁👁<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+然后～～！！<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+终于就是明天了呢～～🤗<br/>
+22/7 Fes～～♪<br/>
+<br/>
+<br/>
+<br/>
+周边里有团扇，生写真也穿了浴衣，充满了夏日气息哦～～🌻<br/>
+<br/>
+<br/>
+<br/>
+<div class="nananiji-img-placeholder"></div><br/>
+<br/>
+<br/>
+<br/>
+团扇！<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+拿着团扇的话，说不定能拿到推给的粉丝福利哦～～🧚🏻‍♀️💓💓<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+萌也想要娜酱的呢💓💓<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+还有❣️<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+手灯的颜色，美神酱<br/>
+变成了【浅粉色】哦～～🐥💓<br/>
+<br/>
+<br/>
+所以，萌也变得和美神酱一样的<br/>
+【浅粉色】了哦～～🐥💓💓<br/>
+<br/>
+<br/>
+<br/>
+谢谢大家一直以来挥舞着白色和粉色🐖<br/>
+以后请多多支持浅粉色啦～～🐥💓💓<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+浅粉色的话，<br/>
+大概是比较淡的那种粉色吧？🤔<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+明天的 22/7 Fes，没法来现场的人，8点左右开始会有 SHOWROOM 直播，记得看哦👁👁💓💓💓<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+一起嗨起来，开心地玩吧～～😊💓💓<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+为了明天，我要去吃昆布饭团，然后早点睡啦☺️🍙<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+拜拜咯～～(*^o^*)<br/>
+<br/>
+<br/>
+<br/>
+来自萌❤︎<br/>
+<div class="nananiji-img-placeholder"></div><div class="nananiji-img-placeholder">
+{% endraw %}
+</div></div>
+    </div>
+</div>
