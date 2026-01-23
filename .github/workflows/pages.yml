@@ -36,10 +36,10 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          if [ -f auto_translate.py ]; then
-            python auto_translate.py
+          if [ -f translate.py ]; then
+            python translate.py
           else
-            echo "auto_translate.py not found, skipping..."
+            echo "translate.py not found, skipping..."
           fi
 
 
