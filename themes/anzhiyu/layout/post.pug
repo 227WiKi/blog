@@ -27,7 +27,6 @@ block content
             - let date_type = data_type_update ? 'updated' : 'date'
             time(itemprop="dateCreated datePublished" datetime=date_xml(page[date_type]) title=date_title + ' ' + full_date(page[date_type]))=date(page[date_type], config.date_format)
       
-      //- === 1. 样式 ===
       style.
         .nananiji-trans-container {
           text-align: left;
@@ -35,7 +34,7 @@ block content
           display: none;
         }
         #nananiji-lang-toggle {
-          background: #4CC4DB;
+          background: #008CD2; 
           color: #fff;
           border: none;
           padding: 8px 16px;
@@ -47,11 +46,13 @@ block content
           align-items: center;
           gap: 6px;
           line-height: 1.5;
-          box-shadow: none; 
-          transition: background 0.2s ease;
+          box-shadow: 0 2px 4px rgba(76, 196, 219, 0.3); 
+          transition: all 0.3s ease;
         }
         #nananiji-lang-toggle:hover {
-          background: #3bbacf;
+          background: #00AACC; 
+          transform: translateY(-2px);
+          box-shadow: 0 4px 8px rgba(76, 196, 219, 0.4);
         }
         .nananiji-trans-disclaimer {
           font-size: 12px;
@@ -77,37 +78,38 @@ block content
         .nananiji-img-anchor {
           display: none; 
         }
+        .article-translated-cn {
+           white-space: pre-wrap; 
+           line-height: 1.8;
+           font-size: 15px;
+        }
 
-      //- 按钮容器
       div.nananiji-trans-container
-        button#nananiji-lang-toggle(onclick="toggleNananijiLanguage()") 
-          span 🇨🇳 翻译成中文
+        button#nananiji-lang-toggle(type="button") 
+          span AI翻译至中文
         p.nananiji-trans-disclaimer ✨ 由 Google Gemini 提供翻译 · 仅供参考
 
-      //- === 2. 正文 ===
       !=page.content
 
-      //- === 3. 修复脚本 (支持 LazyLoad) ===
       script.
-        let nananijiImageMap = [];
-        let nananijiInitialized = false;
-
-        function initNananijiTranslator() {
+        function runNananijiTranslator() {
           const cnBox = document.querySelector('.article-translated-cn');
           const btnContainer = document.querySelector('.nananiji-trans-container');
           
-          if (cnBox && btnContainer) {
-            btnContainer.style.display = 'block';
-            if (!nananijiInitialized) {
-              setupImageAnchors();
-              nananijiInitialized = true;
-            }
+          if (!cnBox || !btnContainer) return;
+
+          btnContainer.style.display = 'block';
+
+          setupImageAnchors();
+          
+          const btn = document.getElementById('nananiji-lang-toggle');
+          if (btn) {
+             btn.onclick = toggleNananijiLanguage;
           }
         }
 
-        // 核心修复：获取真实 URL
+        // 获取图片真实链接
         function getRealSrc(img) {
-          // 优先顺序：data-lazy-src -> data-src -> src
           return img.getAttribute('data-lazy-src') || 
                  img.getAttribute('data-src') || 
                  img.getAttribute('src');
@@ -115,56 +117,43 @@ block content
 
         function setupImageAnchors() {
           const jpImages = document.querySelectorAll('.article-original-jp img');
-          nananijiImageMap = []; 
-
+          
           jpImages.forEach((img) => {
             let wrapper = img.closest('a');
-            
-            // 获取真实链接（避开 base64 占位符）
             const realSrc = getRealSrc(img);
 
-            // 1. 如果没有 wrapper，手动创建一个
             if (!wrapper) {
                wrapper = document.createElement('a');
-               wrapper.href = realSrc; // ✨ 这里用了真实链接！
+               wrapper.href = realSrc; 
                wrapper.setAttribute('data-fancybox', 'gallery');
                
                const caption = img.getAttribute('alt') || '';
                wrapper.setAttribute('data-caption', caption);
-               wrapper.setAttribute('data-thumb', realSrc); // 缩略图也给上
+               wrapper.setAttribute('data-thumb', realSrc);
 
                if (img.parentNode) {
                  img.parentNode.insertBefore(wrapper, img);
                  wrapper.appendChild(img);
                }
             } else {
-               // 2. 如果本来就有 wrapper，但 href 是 base64 占位符，强制修正它
                const currentHref = wrapper.getAttribute('href');
                if (!currentHref || currentHref.startsWith('data:image')) {
-                 wrapper.href = realSrc; // ✨ 强制修正！
+                 wrapper.href = realSrc;
                  wrapper.setAttribute('data-thumb', realSrc);
                }
-               
                if (!wrapper.getAttribute('data-fancybox')) {
                  wrapper.setAttribute('data-fancybox', 'gallery');
                }
             }
             
-            const targetNode = wrapper;
+            if (wrapper.getAttribute('data-nananiji-processed')) return;
 
-            if (targetNode.getAttribute('data-nananiji-processed')) return;
-
-            // 打桩
             const anchor = document.createElement('span');
             anchor.className = 'nananiji-img-anchor';
+            wrapper.parentNode.insertBefore(anchor, wrapper);
+            wrapper.setAttribute('data-nananiji-processed', 'true');
             
-            targetNode.parentNode.insertBefore(anchor, targetNode);
-            targetNode.setAttribute('data-nananiji-processed', 'true');
-
-            nananijiImageMap.push({
-              node: targetNode,
-              anchor: anchor
-            });
+            wrapper._nananijiAnchor = anchor;
           });
         }
 
@@ -179,40 +168,45 @@ block content
           const isJpVisible = jpBox.style.display !== 'none';
 
           if (isJpVisible) {
-            moveImagesToPlaceholders();
+            moveImagesToNewContainer(jpBox, cnBox);
             jpBox.style.display = 'none';
             cnBox.style.display = 'block';
-            btn.innerHTML = '<span>🇯🇵 显示原文</span>';
-            disclaimer.style.display = 'block';
+            if(btn) btn.innerHTML = '<span>显示原文</span>';
+            if(disclaimer) disclaimer.style.display = 'block';
           } else {
-            returnImagesToAnchors();
+            // 切回日文：把图片还回原位
+            returnImagesToOriginal(jpBox);
             jpBox.style.display = 'block';
             cnBox.style.display = 'none';
-            btn.innerHTML = '<span>🇨🇳 翻译成中文</span>';
-            disclaimer.style.display = 'none';
+            if(btn) btn.innerHTML = '<span>🇨🇳 翻译成中文</span>';
+            if(disclaimer) disclaimer.style.display = 'none';
           }
         }
 
-        function moveImagesToPlaceholders() {
-          const placeholders = document.querySelectorAll('.article-translated-cn .nananiji-img-placeholder');
-          
-          nananijiImageMap.forEach((item, index) => {
-            if (index < placeholders.length) {
-              const ph = placeholders[index];
-              ph.parentNode.insertBefore(item.node, ph);
-            }
-          });
-          refreshLightbox();
+        function moveImagesToNewContainer(sourceContainer, targetContainer) {
+           const processedImages = sourceContainer.querySelectorAll('a[data-nananiji-processed="true"]');
+           const placeholders = targetContainer.querySelectorAll('.nananiji-img-placeholder');
+           
+           processedImages.forEach((imgNode, index) => {
+             if (index < placeholders.length) {
+               const ph = placeholders[index];
+               ph.parentNode.insertBefore(imgNode, ph);
+             }
+           });
+           refreshLightbox();
         }
 
-        function returnImagesToAnchors() {
-          nananijiImageMap.forEach((item) => {
-            if (item.anchor && item.anchor.parentNode) {
-              item.anchor.parentNode.insertBefore(item.node, item.anchor.nextSibling);
-            }
-          });
-          refreshLightbox();
+        function returnImagesToOriginal(sourceContainer) {
+           const movedImages = document.querySelectorAll('.article-translated-cn a[data-nananiji-processed="true"]');
+           
+           movedImages.forEach((imgNode) => {
+             if (imgNode._nananijiAnchor && imgNode._nananijiAnchor.parentNode) {
+               imgNode._nananijiAnchor.parentNode.insertBefore(imgNode, imgNode._nananijiAnchor.nextSibling);
+             }
+           });
+           refreshLightbox();
         }
+
 
         function refreshLightbox() {
           if (typeof Fancybox !== 'undefined') {
@@ -225,7 +219,14 @@ block content
           }
         }
 
-        setTimeout(initNananijiTranslator, 100);
+
+        document.addEventListener('DOMContentLoaded', () => {
+           setTimeout(runNananijiTranslator, 100); 
+        });
+
+        document.addEventListener('pjax:complete', () => {
+           setTimeout(runNananijiTranslator, 100);
+        });
 
     include includes/post/post-copyright.pug
 
