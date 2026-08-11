@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 宮瀬玲奈
 description: こんばんU•ω•Uﾜﾝ本日池袋サンシャインシティ噴水広場にて、リリースイベントLIVEを行わせていただきました。ありがとうございました✨今日は2ndシングルの曲を5曲とも...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/reina/b897e27b930cc0c4d6c31b48e87a6.png 
+cover: https://res.227wiki.eu.org/archive/blog/reina/b897e27b930cc0c4d6c31b48e87a6.png 
 translated: true
 ---
 <div class="article-content-container">
@@ -112,7 +112,7 @@ translated: true
 
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/reina/b897e27b930cc0c4d6c31b48e87a6.png)
+![](https://res.227wiki.eu.org/archive/blog/reina/b897e27b930cc0c4d6c31b48e87a6.png)
 
 
 
@@ -134,7 +134,7 @@ translated: true
 
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/reina/b897e27b930cc0c4d6c31b48e87a6-01.png)
+![](https://res.227wiki.eu.org/archive/blog/reina/b897e27b930cc0c4d6c31b48e87a6-01.png)
 
 
 
@@ -154,7 +154,7 @@ translated: true
 
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/reina/b897e27b930cc0c4d6c31b48e87a6-02.jpg)
+![](https://res.227wiki.eu.org/archive/blog/reina/b897e27b930cc0c4d6c31b48e87a6-02.jpg)
 
 
 

@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 白沢かなえ
 description: こんにちはっ5つくらい書きかけのブログ記事があり、困っています、白沢かなえです🥘プシュー寝落ちが大好きなので(？)よく寝落ちしてしまいます…ごめんなさい(´つ_⊂)プシュ...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/512963610abfa5bdd792c6da812f5.png 
+cover: https://res.227wiki.eu.org/archive/blog/kanae/512963610abfa5bdd792c6da812f5.png 
 translated: true
 ---
 <div class="article-content-container">
@@ -144,7 +144,7 @@ translated: true
 ではまた後で〜🌷
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/512963610abfa5bdd792c6da812f5.png)
+![](https://res.227wiki.eu.org/archive/blog/kanae/512963610abfa5bdd792c6da812f5.png)
 
 
 

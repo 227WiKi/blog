@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 白沢かなえ
 description: ！！！告知！！！1/22(月)20時より『11人で重大発表しちゃいまSP！』を行います！11人で久しぶりのshowroom配信です！なにやら占いを行うそう…🔮私、テレビの星座占...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/014dc17b0e3614d3b05553c9c5254.jpg 
+cover: https://res.227wiki.eu.org/archive/blog/kanae/014dc17b0e3614d3b05553c9c5254.jpg 
 translated: true
 ---
 <div class="article-content-container">
@@ -167,7 +167,7 @@ translated: true
 
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/014dc17b0e3614d3b05553c9c5254.jpg)
+![](https://res.227wiki.eu.org/archive/blog/kanae/014dc17b0e3614d3b05553c9c5254.jpg)
 
 
 

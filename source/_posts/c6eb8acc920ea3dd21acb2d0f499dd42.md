@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 宮瀬玲奈
 description: こんばんฅ՞•ﻌ•՞ฅﾜﾝ今日も1日おつかれいにゃんでした ！『To Alice』というブランドのお洋服がすごく可愛くてネットで見てたですが、初めて原宿の『To Alice』様に行ってきました！«٩(*´ ꒳ `*)۶» ;可愛いの世...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/reina/mob0rr40p.jpg 
+cover: https://res.227wiki.eu.org/archive/blog/reina/mob0rr40p.jpg 
 translated: true
 ---
 <div class="article-content-container">

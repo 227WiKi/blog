@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 宮瀬玲奈
 description: こんばんฅ՞•ﻌ•՞ฅﾜﾝコートやもこもこお洋服を着ている方々を見かけるようになったりお店もいつのまにかクリスマス仕様になってたり....冬を感じ始めました。宮瀬玲奈です❄遅くなりましたが...ハロウィンSHOWROOM配...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/reina/mobT7h5UI.jpg 
+cover: https://res.227wiki.eu.org/archive/blog/reina/mobT7h5UI.jpg 
 translated: true
 ---
 <div class="article-content-container">

@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 宮瀬玲奈
 description: こんばんฅ՞•ﻌ•՞ฅﾜﾝお仕事おつかれいにゃんですฅ•ω•ฅﾆｬｰ明日は土曜日だね✩！今日は、苺の日！✨ということで苺食べました💓💓...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/reina/33ff943f2bfdd25e1e9d6ce04c589.jpg 
+cover: https://res.227wiki.eu.org/archive/blog/reina/33ff943f2bfdd25e1e9d6ce04c589.jpg 
 translated: true
 ---
 <div class="article-content-container">
@@ -36,7 +36,7 @@ translated: true
 
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/reina/33ff943f2bfdd25e1e9d6ce04c589.jpg)
+![](https://res.227wiki.eu.org/archive/blog/reina/33ff943f2bfdd25e1e9d6ce04c589.jpg)
 
 
 
@@ -45,7 +45,7 @@ translated: true
 
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/reina/33ff943f2bfdd25e1e9d6ce04c589-01.jpg)
+![](https://res.227wiki.eu.org/archive/blog/reina/33ff943f2bfdd25e1e9d6ce04c589-01.jpg)
 
 
 

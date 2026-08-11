@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 宮瀬玲奈
 description: こんにちฅ՞•ﻌ•՞ฅﾜﾝ昨日の【22/7 ;11人で重大発表しちゃいまSP】SHOWROOM見てくれた方ありがとうございました((&gt;ω&lt;｡)))22/7Tシャツ✨占い、そして重大発表共にドキドキワクワクのSHOWROOM配信でしたまず...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/reina/mobP78CFj.png 
+cover: https://res.227wiki.eu.org/archive/blog/reina/mobP78CFj.png 
 translated: true
 ---
 <div class="article-content-container">

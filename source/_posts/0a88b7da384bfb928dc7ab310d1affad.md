@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 涼花萌
 description: ななばんは〜〜！showroom配信見てくださったみなさん！ありがとうございました〜〜🤗また配信するな〜〜🤗今日は、メイクを...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/moe/ffc4353791fad247d644753654570.jpg 
+cover: https://res.227wiki.eu.org/archive/blog/moe/ffc4353791fad247d644753654570.jpg 
 translated: true
 ---
 <div class="article-content-container">
@@ -108,7 +108,7 @@ showroom配信見てくださったみなさん！<br/>
 <br/>
 <br/>
 リップはな〜〜<br/>
-<img src="https://files.227wiki.eu.org/d/Backup/Blog/moe/ffc4353791fad247d644753654570.jpg"><br/>
+<img src="https://res.227wiki.eu.org/archive/blog/moe/ffc4353791fad247d644753654570.jpg"><br/>
 <br/>
 <br/>
 <br/>
@@ -152,7 +152,7 @@ showroom配信見てくださったみなさん！<br/>
 <br/>
 <br/>
 仕上げにほとんどのメンバーが持ってるこれ！<br/>
-<img src="https://files.227wiki.eu.org/d/Backup/Blog/moe/ffc4353791fad247d644753654570-01.jpg"><br/>
+<img src="https://res.227wiki.eu.org/archive/blog/moe/ffc4353791fad247d644753654570-01.jpg"><br/>
 <br/>
 <br/>
 <br/>
@@ -208,7 +208,7 @@ showroom配信見てくださったみなさん！<br/>
 <br/>
 <br/>
 <br/>
-<img src="https://files.227wiki.eu.org/d/Backup/Blog/moe/ffc4353791fad247d644753654570-02.jpg"><br/>
+<img src="https://res.227wiki.eu.org/archive/blog/moe/ffc4353791fad247d644753654570-02.jpg"><br/>
 <br/>
 <br/>
 <br/>
@@ -234,7 +234,7 @@ showroom配信見てくださったみなさん！<br/>
 <br/>
 <br/>
 大好きなこのアイス食べる〜〜🍦<br/>
-<img src="https://files.227wiki.eu.org/d/Backup/Blog/moe/ffc4353791fad247d644753654570-03.jpg"><br/>
+<img src="https://res.227wiki.eu.org/archive/blog/moe/ffc4353791fad247d644753654570-03.jpg"><br/>
 <br/>
 <br/>
 <br/>
@@ -265,7 +265,7 @@ showroom配信見てくださったみなさん！<br/>
 <br/>
 <br/>
 <br/>
-<img src="https://files.227wiki.eu.org/d/Backup/Blog/moe/ffc4353791fad247d644753654570-04.jpg"><br/>
+<img src="https://res.227wiki.eu.org/archive/blog/moe/ffc4353791fad247d644753654570-04.jpg"><br/>
 <br/>
 <br/>
 (左から、サリたん、萌、ちぱるん、みずはん)<br/>

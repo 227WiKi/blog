@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 白沢かなえ
 description: ついに明日となりました！「22/7 割り切れないライブ〜シャンプーの匂いがした〜」今日は本番前最後の練習でした〜れいにゃんと写真撮って...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/ae455663f3b21c07c5b3dbd786ec0.jpg 
+cover: https://res.227wiki.eu.org/archive/blog/kanae/ae455663f3b21c07c5b3dbd786ec0.jpg 
 translated: true
 ---
 <div class="article-content-container">
@@ -32,7 +32,7 @@ translated: true
 今日は本番前最後の練習でした〜
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/ae455663f3b21c07c5b3dbd786ec0.jpg)
+![](https://res.227wiki.eu.org/archive/blog/kanae/ae455663f3b21c07c5b3dbd786ec0.jpg)
 
 
 

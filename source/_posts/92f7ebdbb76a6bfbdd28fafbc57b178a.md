@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 白沢かなえ
 description: アイドルが大好きで、アイドルになりました。白沢かなえです🌷『生のアイドルが好き』出演させていただきました！...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/1e5368d1bfaa230d6bfbc2afc4f82.jpg 
+cover: https://res.227wiki.eu.org/archive/blog/kanae/1e5368d1bfaa230d6bfbc2afc4f82.jpg 
 translated: true
 ---
 <div class="article-content-container">
@@ -39,7 +39,7 @@ translated: true
 『生のアイドルが好き』
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/1e5368d1bfaa230d6bfbc2afc4f82.jpg)
+![](https://res.227wiki.eu.org/archive/blog/kanae/1e5368d1bfaa230d6bfbc2afc4f82.jpg)
 
 
 
@@ -136,13 +136,13 @@ translated: true
 見てくださいこの嬉しそうな顔！！！！
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/1e5368d1bfaa230d6bfbc2afc4f82-01.png)
+![](https://res.227wiki.eu.org/archive/blog/kanae/1e5368d1bfaa230d6bfbc2afc4f82-01.png)
 
 
 
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/1e5368d1bfaa230d6bfbc2afc4f82-02.png)
+![](https://res.227wiki.eu.org/archive/blog/kanae/1e5368d1bfaa230d6bfbc2afc4f82-02.png)
 
 
 
@@ -246,7 +246,7 @@ translated: true
 
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/1e5368d1bfaa230d6bfbc2afc4f82-03.png)
+![](https://res.227wiki.eu.org/archive/blog/kanae/1e5368d1bfaa230d6bfbc2afc4f82-03.png)
 
 
 

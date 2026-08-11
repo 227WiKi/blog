@@ -6,14 +6,14 @@ categories:
 - 成员博客
 - 白沢かなえ
 description: こんばんは、白沢かなえです🌷🌷今日はAnimeJapanにてフライヤー配りをしました〜〜〜！ノルマ？が200枚ずつだったのですが、見事200枚配りきりました〜〜〜🌸私っ...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/78f55847ec39c574241ac5693d7cd.png 
+cover: https://res.227wiki.eu.org/archive/blog/kanae/78f55847ec39c574241ac5693d7cd.png 
 translated: true
 ---
 <div class="article-content-container">
     <div class="article-original-jp">
 こんばんは、白沢かなえです🌷🌷
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/78f55847ec39c574241ac5693d7cd.png)
+![](https://res.227wiki.eu.org/archive/blog/kanae/78f55847ec39c574241ac5693d7cd.png)
 
 
 今日はAnimeJapanにてフライヤー配りを

@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 涼花萌
 description: ななばんは〜〜！ナナニジライブ#1ありがとうございました〜〜💓💓2019年初ライブ♪今までで1番曲数が多いから、来てくれてるみんなと一緒にいれる時間...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/moe/526262194bf49c90d2cad5ccd8ca7.jpg 
+cover: https://res.227wiki.eu.org/archive/blog/moe/526262194bf49c90d2cad5ccd8ca7.jpg 
 translated: true
 ---
 <div class="article-content-container">
@@ -26,7 +26,7 @@ translated: true
 <br/>
 <br/>
 ありがとうございました〜〜💓💓<br/>
-<img src="https://files.227wiki.eu.org/d/Backup/Blog/moe/526262194bf49c90d2cad5ccd8ca7.jpg"><br/>
+<img src="https://res.227wiki.eu.org/archive/blog/moe/526262194bf49c90d2cad5ccd8ca7.jpg"><br/>
 <br/>
 <br/>
 <br/>
@@ -66,7 +66,7 @@ translated: true
 <br/>
 <br/>
 新衣装も作ってくださったんです〜〜😊<br/>
-<img src="https://files.227wiki.eu.org/d/Backup/Blog/moe/526262194bf49c90d2cad5ccd8ca7-01.jpg"><br/>
+<img src="https://res.227wiki.eu.org/archive/blog/moe/526262194bf49c90d2cad5ccd8ca7-01.jpg"><br/>
 <br/>
 <br/>
 <br/>
@@ -120,7 +120,7 @@ translated: true
 <br/>
 <br/>
 あいなっちぃ〜〜💓💓💓💓💓💓💓<br/>
-<img src="https://files.227wiki.eu.org/d/Backup/Blog/moe/526262194bf49c90d2cad5ccd8ca7-02.jpg"><br/>
+<img src="https://res.227wiki.eu.org/archive/blog/moe/526262194bf49c90d2cad5ccd8ca7-02.jpg"><br/>
 <br/>
 <br/>
 <br/>

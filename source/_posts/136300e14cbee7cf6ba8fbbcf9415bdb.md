@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 白沢かなえ
 description: う〜〜〜〜〜〜〜〜〜〜むブログを書くようになって写真に困っております。地元には、歩ける距離だと良い写真スポットがない…少し遠いところは車がないといけない…免許持ってない…かといってカフェ的なオシャレな...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/mobAgtaT6.jpg 
+cover: https://res.227wiki.eu.org/archive/blog/kanae/mobAgtaT6.jpg 
 translated: true
 ---
 <div class="article-content-container">

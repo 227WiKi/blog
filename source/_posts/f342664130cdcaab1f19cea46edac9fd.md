@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 西條和
 description: 前回のブログでは書ききれませんでしたが理解者のジャケット写真、MVが公開になりました！ふぁいふぁいします...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/nagomi/a18dfcbcb00475fb4c2e385741ae1.jpg 
+cover: https://res.227wiki.eu.org/archive/blog/nagomi/a18dfcbcb00475fb4c2e385741ae1.jpg 
 translated: true
 ---
 <div class="article-content-container">
@@ -46,7 +46,7 @@ translated: true
 <br/>
 <br/>
 <br/>
-<img src="https://files.227wiki.eu.org/d/Backup/Blog/nagomi/a18dfcbcb00475fb4c2e385741ae1.jpg"><br/>
+<img src="https://res.227wiki.eu.org/archive/blog/nagomi/a18dfcbcb00475fb4c2e385741ae1.jpg"><br/>
 <br/>
 <br/>
 <br/>
@@ -55,7 +55,7 @@ translated: true
 <br/>
 <br/>
 <br/>
-<img src="https://files.227wiki.eu.org/d/Backup/Blog/nagomi/a18dfcbcb00475fb4c2e385741ae1-01.jpg"><br/>
+<img src="https://res.227wiki.eu.org/archive/blog/nagomi/a18dfcbcb00475fb4c2e385741ae1-01.jpg"><br/>
 <br/>
 <br/>
 <br/>
@@ -65,7 +65,7 @@ translated: true
 <br/>
 <br/>
 <br/>
-<img src="https://files.227wiki.eu.org/d/Backup/Blog/nagomi/a18dfcbcb00475fb4c2e385741ae1-02.jpg"><br/>
+<img src="https://res.227wiki.eu.org/archive/blog/nagomi/a18dfcbcb00475fb4c2e385741ae1-02.jpg"><br/>
 <br/>
 <br/>
 <br/>

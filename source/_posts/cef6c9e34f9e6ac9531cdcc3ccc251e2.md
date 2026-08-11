@@ -6,14 +6,14 @@ categories:
 - 成员博客
 - 白沢かなえ
 description: ちょりす〜〜〜髪切りました〜〜〜と言ってもほとんど変わらず…少し髪色が暗くなったかな？？？これで個握に備えますっ🌷ちょうど...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/f71ba0bd773e81b12d8c55715e5ff.png 
+cover: https://res.227wiki.eu.org/archive/blog/kanae/f71ba0bd773e81b12d8c55715e5ff.png 
 translated: true
 ---
 <div class="article-content-container">
     <div class="article-original-jp">
 ちょりす〜〜〜
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/f71ba0bd773e81b12d8c55715e5ff.png)
+![](https://res.227wiki.eu.org/archive/blog/kanae/f71ba0bd773e81b12d8c55715e5ff.png)
 
 
 髪切りました〜〜〜
@@ -79,7 +79,7 @@ UNIQLO×ジャンプ50周年
 
 買ったにょら〜〜〜★
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/f71ba0bd773e81b12d8c55715e5ff-01.jpg)
+![](https://res.227wiki.eu.org/archive/blog/kanae/f71ba0bd773e81b12d8c55715e5ff-01.jpg)
 
 
 
@@ -113,7 +113,7 @@ UNIQLO×ジャンプ50周年
 絡まれた
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/f71ba0bd773e81b12d8c55715e5ff-02.jpg)
+![](https://res.227wiki.eu.org/archive/blog/kanae/f71ba0bd773e81b12d8c55715e5ff-02.jpg)
 
 
 このポーズである
@@ -137,7 +137,7 @@ UNIQLO×ジャンプ50周年
 
 おっと間違えた
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/f71ba0bd773e81b12d8c55715e5ff-03.jpg)
+![](https://res.227wiki.eu.org/archive/blog/kanae/f71ba0bd773e81b12d8c55715e5ff-03.jpg)
 
 
 

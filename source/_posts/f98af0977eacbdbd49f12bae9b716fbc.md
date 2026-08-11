@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 涼花萌
 description: ななばんは〜〜！今日のくらてん！にゲストとして呼んでもらって〜〜ん📻💓わぁ〜〜い🤗くらてん！初ゲストやねんて〜〜🤗🤗くらてんフェス♪ってゆうこと...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/moe/36e9c437eb078be18382f3bd39eb6.jpg 
+cover: https://res.227wiki.eu.org/archive/blog/moe/36e9c437eb078be18382f3bd39eb6.jpg 
 translated: true
 ---
 <div class="article-content-container">
@@ -26,7 +26,7 @@ translated: true
 <br/>
 <br/>
 今日のくらてん！にゲストとして呼んでもらって〜〜ん📻💓<br/>
-<img src="https://files.227wiki.eu.org/d/Backup/Blog/moe/36e9c437eb078be18382f3bd39eb6.jpg"><br/>
+<img src="https://res.227wiki.eu.org/archive/blog/moe/36e9c437eb078be18382f3bd39eb6.jpg"><br/>
 <br/>
 <br/>
 <br/>
@@ -106,7 +106,7 @@ translated: true
 <br/>
 <br/>
 <br/>
-<img src="https://files.227wiki.eu.org/d/Backup/Blog/moe/36e9c437eb078be18382f3bd39eb6-01.jpg"><br/>
+<img src="https://res.227wiki.eu.org/archive/blog/moe/36e9c437eb078be18382f3bd39eb6-01.jpg"><br/>
 <br/>
 <br/>
 <br/>

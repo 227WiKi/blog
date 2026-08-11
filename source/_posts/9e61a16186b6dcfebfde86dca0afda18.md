@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 宮瀬玲奈
 description: こんばんฅ՞•ﻌ•՞ฅﾜﾝ今日も一日おつかれいにゃん✨先日、「割り切れないライブ～シャンプーの匂いがした～」ライブのDVDをいただき、見させていただきました。...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/reina/2006fda7651b38b9d894d3429feaf.jpg 
+cover: https://res.227wiki.eu.org/archive/blog/reina/2006fda7651b38b9d894d3429feaf.jpg 
 translated: true
 ---
 <div class="article-content-container">
@@ -107,7 +107,7 @@ translated: true
 一日遅れちゃいましたが...
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/reina/2006fda7651b38b9d894d3429feaf.jpg)
+![](https://res.227wiki.eu.org/archive/blog/reina/2006fda7651b38b9d894d3429feaf.jpg)
 
 
 

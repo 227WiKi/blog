@@ -6,7 +6,7 @@ categories:
 - 成员博客
 - 白沢かなえ
 description: キャラクターポーズクイズ！！！このキャラだーれだポーズだけじゃ難しいかな〜〜〜？？ただ、当てることも不可能ではない！だってこんなポーズしてる人...
-cover: https://files.227wiki.eu.org/d/Backup/Blog/kanae/c39b7cdb8228dcef9796e865b95bd.jpg 
+cover: https://res.227wiki.eu.org/archive/blog/kanae/c39b7cdb8228dcef9796e865b95bd.jpg 
 translated: true
 ---
 <div class="article-content-container">
@@ -20,7 +20,7 @@ translated: true
 
 このキャラだーれだ
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/c39b7cdb8228dcef9796e865b95bd.jpg)
+![](https://res.227wiki.eu.org/archive/blog/kanae/c39b7cdb8228dcef9796e865b95bd.jpg)
 
 
 
@@ -133,7 +133,7 @@ translated: true
 
 
 
-![](https://files.227wiki.eu.org/d/Backup/Blog/kanae/c39b7cdb8228dcef9796e865b95bd-01.png)
+![](https://res.227wiki.eu.org/archive/blog/kanae/c39b7cdb8228dcef9796e865b95bd-01.png)
 
 
 
