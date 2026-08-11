@@ -17,7 +17,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 
+          # The build does not need repository history. Avoid downloading the
+          # large generated-site history from the publishing branch.
+          fetch-depth: 1
 
 
       - name: Set up Python
@@ -93,7 +95,7 @@ jobs:
           hexo generate
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           user_name: 227wiki-bot
@@ -102,7 +104,9 @@ jobs:
           full_commit_message: ${{ github.event.head_commit.message }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          allow_empty_commit: true
+          # gh-pages contains generated output only. Keep one deploy snapshot
+          # instead of accumulating a full 168 MB site on every build.
+          force_orphan: true
 
       
       - name: Azure Deploy
@@ -116,5 +120,3 @@ jobs:
           api_location: "" 
           output_location: "" 
           skip_app_build: true
-
-          
